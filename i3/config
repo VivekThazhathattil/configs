@@ -223,7 +223,7 @@ bindsym XF86AudioPrev exec playerctl previous
 
 #wallpaper
 #exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/gibli_kerala.jpg
-exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/betta5.png
+exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/japan.png
 
 # setting up i3-gaps to use
 
@@ -270,15 +270,15 @@ client.urgent           $urgent.color.border               $urgent.color.backgro
 
 #compton configuration
 
-#exec_always compton --conf ~/.config/compton.conf
+#exec_always compton --backend glx --paint-on-overlay --vsync opengl-swc --conf ~/.config/compton.conf
 
 #picom configuration
 
-exec_always picom --config ~/.config/picom.conf --experimental-backends --backend glx
+exec_always picom --experimental-backends
 
 # disable title bars
 
-new_window pixel
+default_border pixel 0
 
 # saved layout
 

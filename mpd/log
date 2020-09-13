@@ -1,0 +1,2759 @@
+Sep 02 16:49 : zeroconf: No global port, disabling zeroconf
+Sep 02 16:49 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 02 16:49 : client: [0] opened from local
+Sep 02 16:49 : client: [0] closed
+Sep 02 16:51 : client: [1] opened from local
+Sep 02 16:51 : client: [1] closed
+Sep 02 16:52 : client: [2] opened from local
+Sep 02 16:52 : client: [2] closed
+Sep 02 16:54 : client: [3] opened from local
+Sep 02 16:54 : client: [3] closed
+Sep 02 16:56 : client: [4] opened from local
+Sep 02 16:56 : client: [4] closed
+Sep 02 16:57 : client: [5] opened from local
+Sep 02 16:57 : client: [5] closed
+Sep 02 16:59 : client: [6] opened from local
+Sep 02 16:59 : client: [6] closed
+Sep 02 17:01 : client: [7] opened from local
+Sep 02 17:01 : client: [7] closed
+Sep 02 17:02 : client: [8] opened from local
+Sep 02 17:02 : client: [8] closed
+Sep 02 17:04 : client: [9] opened from local
+Sep 02 17:04 : client: [9] closed
+Sep 02 17:05 : client: [10] opened from [::1]:40478
+Sep 02 17:05 : client: [10] closed
+Sep 02 17:05 : client: [11] opened from [::1]:40480
+Sep 02 17:05 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:05 : client: [11] closed
+Sep 02 17:05 : client: [12] opened from [::1]:40482
+Sep 02 17:05 : client: [12] closed
+Sep 02 17:05 : client: [13] opened from [::1]:40484
+Sep 02 17:05 : client: [13] closed
+Sep 02 17:06 : client: [14] opened from local
+Sep 02 17:06 : client: [14] closed
+Sep 02 17:06 : client: [15] opened from [::1]:40486
+Sep 02 17:06 : client: [15] closed
+Sep 02 17:06 : client: [16] opened from [::1]:40488
+Sep 02 17:07 : client: [16] closed
+Sep 02 17:07 : client: [17] opened from [::1]:40490
+Sep 02 17:07 : client: [17] closed
+Sep 02 17:07 : client: [18] opened from [::1]:40492
+Sep 02 17:07 : client: [19] opened from local
+Sep 02 17:07 : client: [19] closed
+Sep 02 17:07 : client: [18] closed
+Sep 02 17:07 : client: [20] opened from [::1]:40494
+Sep 02 17:08 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:08 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:08 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:08 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:08 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:08 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 02 17:09 : client: [21] opened from local
+Sep 02 17:09 : client: [21] closed
+Sep 02 17:11 : client: [22] opened from local
+Sep 02 17:11 : client: [22] closed
+Sep 02 17:12 : client: [23] opened from local
+Sep 02 17:12 : client: [23] closed
+Sep 02 17:14 : client: [24] opened from local
+Sep 02 17:14 : client: [24] closed
+Sep 02 19:51 : zeroconf: No global port, disabling zeroconf
+Sep 02 19:51 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 02 19:51 : client: [0] opened from local
+Sep 02 19:51 : client: [0] closed
+Sep 02 19:53 : client: [1] opened from local
+Sep 02 19:53 : client: [1] closed
+Sep 02 19:54 : client: [2] opened from local
+Sep 02 19:54 : client: [2] closed
+Sep 02 19:56 : client: [3] opened from local
+Sep 02 19:56 : client: [3] closed
+Sep 02 19:58 : client: [4] opened from local
+Sep 02 19:58 : client: [4] closed
+Sep 02 19:59 : client: [5] opened from local
+Sep 02 19:59 : client: [5] closed
+Sep 02 20:01 : client: [6] opened from local
+Sep 02 20:01 : client: [6] closed
+Sep 02 20:03 : client: [7] opened from local
+Sep 02 20:03 : client: [7] closed
+Sep 02 20:04 : client: [8] opened from local
+Sep 02 20:04 : client: [8] closed
+Sep 02 20:06 : client: [9] opened from local
+Sep 02 20:06 : client: [9] closed
+Sep 02 20:08 : client: [10] opened from local
+Sep 02 20:08 : client: [10] closed
+Sep 02 20:09 : client: [11] opened from local
+Sep 02 20:09 : client: [11] closed
+Sep 02 20:11 : client: [12] opened from local
+Sep 02 20:11 : client: [12] closed
+Sep 02 20:13 : client: [13] opened from local
+Sep 02 20:13 : client: [13] closed
+Sep 02 20:14 : client: [14] opened from local
+Sep 02 20:14 : client: [14] closed
+Sep 02 20:16 : client: [15] opened from local
+Sep 02 20:16 : client: [15] closed
+Sep 02 20:18 : client: [16] opened from local
+Sep 02 20:18 : client: [16] closed
+Sep 02 20:19 : client: [17] opened from local
+Sep 02 20:19 : client: [17] closed
+Sep 02 20:21 : client: [18] opened from local
+Sep 02 20:21 : client: [18] closed
+Sep 02 20:23 : client: [19] opened from local
+Sep 02 20:23 : client: [19] closed
+Sep 02 20:24 : client: [20] opened from local
+Sep 02 20:24 : client: [20] closed
+Sep 02 20:26 : client: [21] opened from local
+Sep 02 20:26 : client: [21] closed
+Sep 02 20:28 : client: [22] opened from local
+Sep 02 20:28 : client: [22] closed
+Sep 02 20:29 : client: [23] opened from local
+Sep 02 20:29 : client: [23] closed
+Sep 02 20:31 : client: [24] opened from local
+Sep 02 20:31 : client: [24] closed
+Sep 02 20:33 : client: [25] opened from local
+Sep 02 20:33 : client: [25] closed
+Sep 02 20:34 : client: [26] opened from local
+Sep 02 20:34 : client: [26] closed
+Sep 02 20:36 : client: [27] opened from local
+Sep 02 20:36 : client: [27] closed
+Sep 02 20:38 : client: [28] opened from local
+Sep 02 20:38 : client: [28] closed
+Sep 02 20:39 : client: [29] opened from local
+Sep 02 20:39 : client: [29] closed
+Sep 02 20:41 : client: [30] opened from local
+Sep 02 20:41 : client: [30] closed
+Sep 02 20:43 : client: [31] opened from local
+Sep 02 20:43 : client: [31] closed
+Sep 02 20:44 : client: [32] opened from local
+Sep 02 20:44 : client: [32] closed
+Sep 02 20:46 : client: [33] opened from local
+Sep 02 20:46 : client: [33] closed
+Sep 02 20:48 : client: [34] opened from local
+Sep 02 20:48 : client: [34] closed
+Sep 02 20:49 : client: [35] opened from local
+Sep 02 20:49 : client: [35] closed
+Sep 02 20:51 : client: [36] opened from local
+Sep 02 20:51 : client: [36] closed
+Sep 02 20:53 : client: [37] opened from local
+Sep 02 20:53 : client: [37] closed
+Sep 02 20:54 : client: [38] opened from local
+Sep 02 20:54 : client: [38] closed
+Sep 02 20:56 : client: [39] opened from local
+Sep 02 20:56 : client: [39] closed
+Sep 02 20:58 : client: [40] opened from local
+Sep 02 20:58 : client: [40] closed
+Sep 02 20:59 : client: [41] opened from local
+Sep 02 20:59 : client: [41] closed
+Sep 02 21:01 : client: [42] opened from local
+Sep 02 21:01 : client: [42] closed
+Sep 02 21:03 : client: [43] opened from local
+Sep 02 21:03 : client: [43] closed
+Sep 02 21:04 : client: [44] opened from local
+Sep 02 21:04 : client: [44] closed
+Sep 02 21:06 : client: [45] opened from local
+Sep 02 21:06 : client: [45] closed
+Sep 02 21:08 : client: [46] opened from local
+Sep 02 21:08 : client: [46] closed
+Sep 02 21:09 : client: [47] opened from local
+Sep 02 21:09 : client: [47] closed
+Sep 02 21:11 : client: [48] opened from local
+Sep 02 21:11 : client: [48] closed
+Sep 02 21:13 : client: [49] opened from local
+Sep 02 21:13 : client: [49] closed
+Sep 02 21:14 : client: [50] opened from local
+Sep 02 21:14 : client: [50] closed
+Sep 02 21:16 : client: [51] opened from local
+Sep 02 21:16 : client: [51] closed
+Sep 02 21:18 : client: [52] opened from local
+Sep 02 21:18 : client: [52] closed
+Sep 02 21:19 : client: [53] opened from local
+Sep 02 21:19 : client: [53] closed
+Sep 02 21:21 : client: [54] opened from local
+Sep 02 21:21 : client: [54] closed
+Sep 02 21:23 : client: [55] opened from local
+Sep 02 21:23 : client: [55] closed
+Sep 03 05:30 : client: [56] opened from local
+Sep 03 05:30 : client: [56] closed
+Sep 03 05:32 : client: [57] opened from local
+Sep 03 05:32 : client: [57] closed
+Sep 03 05:33 : client: [58] opened from local
+Sep 03 05:33 : client: [58] closed
+Sep 03 05:35 : client: [59] opened from local
+Sep 03 05:35 : client: [59] closed
+Sep 03 05:37 : client: [60] opened from local
+Sep 03 05:37 : client: [60] closed
+Sep 03 05:38 : client: [61] opened from local
+Sep 03 05:38 : client: [61] closed
+Sep 03 05:40 : client: [62] opened from local
+Sep 03 05:40 : client: [62] closed
+Sep 03 05:42 : client: [63] opened from local
+Sep 03 05:42 : client: [63] closed
+Sep 03 05:43 : client: [64] opened from local
+Sep 03 05:43 : client: [64] closed
+Sep 03 05:45 : client: [65] opened from local
+Sep 03 05:45 : client: [65] closed
+Sep 03 05:47 : client: [66] opened from local
+Sep 03 05:47 : client: [66] closed
+Sep 03 05:48 : client: [67] opened from local
+Sep 03 05:48 : client: [67] closed
+Sep 03 05:50 : client: [68] opened from local
+Sep 03 05:50 : client: [68] closed
+Sep 03 05:52 : client: [69] opened from local
+Sep 03 05:52 : client: [69] closed
+Sep 03 05:53 : client: [70] opened from local
+Sep 03 05:53 : client: [70] closed
+Sep 03 05:55 : client: [71] opened from local
+Sep 03 05:55 : client: [71] closed
+Sep 03 05:57 : client: [72] opened from local
+Sep 03 05:57 : client: [72] closed
+Sep 03 05:58 : client: [73] opened from local
+Sep 03 05:58 : client: [73] closed
+Sep 03 06:00 : client: [74] opened from local
+Sep 03 06:00 : client: [74] closed
+Sep 03 06:02 : client: [75] opened from local
+Sep 03 06:02 : client: [75] closed
+Sep 03 06:03 : client: [76] opened from local
+Sep 03 06:03 : client: [76] closed
+Sep 03 06:05 : client: [77] opened from local
+Sep 03 06:05 : client: [77] closed
+Sep 03 06:07 : client: [78] opened from local
+Sep 03 06:07 : client: [78] closed
+Sep 03 06:08 : client: [79] opened from local
+Sep 03 06:08 : client: [79] closed
+Sep 03 06:10 : client: [80] opened from local
+Sep 03 06:10 : client: [80] closed
+Sep 03 06:12 : client: [81] opened from local
+Sep 03 06:12 : client: [81] closed
+Sep 03 06:13 : client: [82] opened from local
+Sep 03 06:13 : client: [82] closed
+Sep 03 06:15 : client: [83] opened from local
+Sep 03 06:15 : client: [83] closed
+Sep 03 06:17 : client: [84] opened from local
+Sep 03 06:17 : client: [84] closed
+Sep 03 06:18 : client: [85] opened from local
+Sep 03 06:18 : client: [85] closed
+Sep 03 06:20 : client: [86] opened from local
+Sep 03 06:20 : client: [86] closed
+Sep 03 06:22 : client: [87] opened from local
+Sep 03 06:22 : client: [87] closed
+Sep 03 06:23 : client: [88] opened from local
+Sep 03 06:23 : client: [88] closed
+Sep 03 06:25 : client: [89] opened from local
+Sep 03 06:25 : client: [89] closed
+Sep 03 06:27 : client: [90] opened from local
+Sep 03 06:27 : client: [90] closed
+Sep 03 06:28 : client: [91] opened from local
+Sep 03 06:28 : client: [91] closed
+Sep 03 06:30 : client: [92] opened from local
+Sep 03 06:30 : client: [92] closed
+Sep 03 06:32 : client: [93] opened from local
+Sep 03 06:32 : client: [93] closed
+Sep 03 06:33 : client: [94] opened from local
+Sep 03 06:33 : client: [94] closed
+Sep 03 06:35 : zeroconf: No global port, disabling zeroconf
+Sep 03 06:35 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 03 06:35 : client: [0] opened from local
+Sep 03 06:35 : client: [0] closed
+Sep 03 06:37 : client: [1] opened from local
+Sep 03 06:37 : client: [1] closed
+Sep 03 06:38 : client: [2] opened from local
+Sep 03 06:38 : client: [2] closed
+Sep 03 06:40 : client: [3] opened from local
+Sep 03 06:40 : client: [3] closed
+Sep 03 06:42 : client: [4] opened from local
+Sep 03 06:42 : client: [4] closed
+Sep 03 06:43 : client: [5] opened from local
+Sep 03 06:43 : client: [5] closed
+Sep 03 06:45 : client: [6] opened from local
+Sep 03 06:45 : client: [6] closed
+Sep 03 06:47 : client: [7] opened from local
+Sep 03 06:47 : client: [7] closed
+Sep 03 06:48 : client: [8] opened from local
+Sep 03 06:48 : client: [8] closed
+Sep 03 06:50 : client: [9] opened from local
+Sep 03 06:50 : client: [9] closed
+Sep 03 06:52 : client: [10] opened from local
+Sep 03 06:52 : client: [10] closed
+Sep 03 06:53 : client: [11] opened from local
+Sep 03 06:53 : client: [11] closed
+Sep 03 06:55 : client: [12] opened from local
+Sep 03 06:55 : client: [12] closed
+Sep 03 06:57 : client: [13] opened from local
+Sep 03 06:57 : client: [13] closed
+Sep 03 06:58 : client: [14] opened from local
+Sep 03 06:58 : client: [14] closed
+Sep 03 07:00 : client: [15] opened from local
+Sep 03 07:00 : client: [15] closed
+Sep 03 07:02 : client: [16] opened from local
+Sep 03 07:02 : client: [16] closed
+Sep 03 07:03 : client: [17] opened from local
+Sep 03 07:03 : client: [17] closed
+Sep 03 07:05 : client: [18] opened from local
+Sep 03 07:05 : client: [18] closed
+Sep 03 07:07 : client: [19] opened from local
+Sep 03 07:07 : client: [19] closed
+Sep 03 07:08 : client: [20] opened from local
+Sep 03 07:08 : client: [20] closed
+Sep 03 07:10 : client: [21] opened from local
+Sep 03 07:10 : client: [21] closed
+Sep 03 07:12 : client: [22] opened from local
+Sep 03 07:12 : client: [22] closed
+Sep 03 07:13 : client: [23] opened from local
+Sep 03 07:13 : client: [23] closed
+Sep 03 07:15 : client: [24] opened from local
+Sep 03 07:15 : client: [24] closed
+Sep 03 07:17 : client: [25] opened from local
+Sep 03 07:17 : client: [25] closed
+Sep 03 07:18 : client: [26] opened from local
+Sep 03 07:18 : client: [26] closed
+Sep 03 07:20 : client: [27] opened from local
+Sep 03 07:20 : client: [27] closed
+Sep 03 07:22 : client: [28] opened from local
+Sep 03 07:22 : client: [28] closed
+Sep 03 07:23 : client: [29] opened from local
+Sep 03 07:23 : client: [29] closed
+Sep 03 07:25 : client: [30] opened from local
+Sep 03 07:25 : client: [30] closed
+Sep 03 07:27 : client: [31] opened from local
+Sep 03 07:27 : client: [31] closed
+Sep 03 07:29 : client: [32] opened from local
+Sep 03 07:29 : client: [32] closed
+Sep 03 07:30 : client: [33] opened from local
+Sep 03 07:30 : client: [33] closed
+Sep 03 07:32 : client: [34] opened from local
+Sep 03 07:32 : client: [34] closed
+Sep 03 07:34 : client: [35] opened from local
+Sep 03 07:34 : client: [35] closed
+Sep 03 07:55 : client: [36] opened from local
+Sep 03 07:55 : client: [36] closed
+Sep 03 08:08 : client: [37] opened from local
+Sep 03 08:08 : client: [37] closed
+Sep 03 08:09 : client: [38] opened from local
+Sep 03 08:09 : client: [38] closed
+Sep 03 08:11 : client: [39] opened from local
+Sep 03 08:11 : client: [39] closed
+Sep 03 08:13 : client: [40] opened from local
+Sep 03 08:13 : client: [40] closed
+Sep 03 08:14 : client: [41] opened from local
+Sep 03 08:14 : client: [41] closed
+Sep 03 08:16 : client: [42] opened from local
+Sep 03 08:16 : client: [42] closed
+Sep 03 08:18 : client: [43] opened from local
+Sep 03 08:18 : client: [43] closed
+Sep 03 08:19 : client: [44] opened from local
+Sep 03 08:19 : client: [44] closed
+Sep 03 08:21 : client: [45] opened from local
+Sep 03 08:21 : client: [45] closed
+Sep 03 08:23 : client: [46] opened from local
+Sep 03 08:23 : client: [46] closed
+Sep 03 08:24 : client: [47] opened from local
+Sep 03 08:24 : client: [47] closed
+Sep 03 08:26 : client: [48] opened from local
+Sep 03 08:26 : client: [48] closed
+Sep 03 08:28 : client: [49] opened from local
+Sep 03 08:28 : client: [49] closed
+Sep 03 08:29 : client: [50] opened from local
+Sep 03 08:29 : client: [50] closed
+Sep 03 08:31 : client: [51] opened from local
+Sep 03 08:31 : client: [51] closed
+Sep 03 08:33 : client: [52] opened from local
+Sep 03 08:33 : client: [52] closed
+Sep 03 08:34 : client: [53] opened from local
+Sep 03 08:34 : client: [53] closed
+Sep 03 08:43 : client: [54] opened from local
+Sep 03 08:43 : client: [54] closed
+Sep 03 08:45 : client: [55] opened from local
+Sep 03 08:45 : client: [55] closed
+Sep 03 08:47 : client: [56] opened from local
+Sep 03 08:47 : client: [56] closed
+Sep 03 08:48 : client: [57] opened from local
+Sep 03 08:48 : client: [57] closed
+Sep 03 08:50 : client: [58] opened from local
+Sep 03 08:50 : client: [58] closed
+Sep 03 08:52 : client: [59] opened from local
+Sep 03 08:52 : client: [59] closed
+Sep 03 08:53 : client: [60] opened from local
+Sep 03 08:53 : client: [60] closed
+Sep 03 08:55 : client: [61] opened from local
+Sep 03 08:55 : client: [61] closed
+Sep 03 08:57 : client: [62] opened from local
+Sep 03 08:57 : client: [62] closed
+Sep 03 08:58 : client: [63] opened from local
+Sep 03 08:58 : client: [63] closed
+Sep 03 09:00 : client: [64] opened from local
+Sep 03 09:00 : client: [64] closed
+Sep 03 09:02 : client: [65] opened from local
+Sep 03 09:02 : client: [65] closed
+Sep 03 09:03 : client: [66] opened from local
+Sep 03 09:03 : client: [66] closed
+Sep 03 09:05 : client: [67] opened from local
+Sep 03 09:05 : client: [67] closed
+Sep 03 09:07 : client: [68] opened from local
+Sep 03 09:07 : client: [68] closed
+Sep 03 09:08 : client: [69] opened from local
+Sep 03 09:08 : client: [69] closed
+Sep 03 09:10 : client: [70] opened from local
+Sep 03 09:10 : client: [70] closed
+Sep 03 09:12 : client: [71] opened from local
+Sep 03 09:12 : client: [71] closed
+Sep 03 09:13 : client: [72] opened from local
+Sep 03 09:13 : client: [72] closed
+Sep 03 09:15 : client: [73] opened from local
+Sep 03 09:15 : client: [73] closed
+Sep 03 09:17 : client: [74] opened from local
+Sep 03 09:17 : client: [74] closed
+Sep 03 09:18 : client: [75] opened from local
+Sep 03 09:18 : client: [75] closed
+Sep 03 09:20 : client: [76] opened from local
+Sep 03 09:20 : client: [76] closed
+Sep 03 09:22 : client: [77] opened from local
+Sep 03 09:22 : client: [77] closed
+Sep 03 09:23 : client: [78] opened from local
+Sep 03 09:23 : client: [78] closed
+Sep 03 09:25 : client: [79] opened from local
+Sep 03 09:25 : client: [79] closed
+Sep 03 09:27 : client: [80] opened from local
+Sep 03 09:27 : client: [80] closed
+Sep 03 09:28 : client: [81] opened from local
+Sep 03 09:28 : client: [81] closed
+Sep 03 09:30 : client: [82] opened from local
+Sep 03 09:30 : client: [82] closed
+Sep 03 09:32 : client: [83] opened from local
+Sep 03 09:32 : client: [83] closed
+Sep 03 09:33 : client: [84] opened from local
+Sep 03 09:33 : client: [84] closed
+Sep 03 09:35 : client: [85] opened from local
+Sep 03 09:35 : client: [85] closed
+Sep 03 09:37 : client: [86] opened from local
+Sep 03 09:37 : client: [86] closed
+Sep 03 09:38 : client: [87] opened from local
+Sep 03 09:38 : client: [87] closed
+Sep 03 09:40 : client: [88] opened from local
+Sep 03 09:40 : client: [88] closed
+Sep 03 09:42 : client: [89] opened from local
+Sep 03 09:42 : client: [89] closed
+Sep 03 09:43 : client: [90] opened from local
+Sep 03 09:43 : client: [90] closed
+Sep 03 09:45 : client: [91] opened from local
+Sep 03 09:45 : client: [91] closed
+Sep 03 09:47 : client: [92] opened from local
+Sep 03 09:47 : client: [92] closed
+Sep 03 09:48 : client: [93] opened from local
+Sep 03 09:48 : client: [93] closed
+Sep 03 09:50 : client: [94] opened from local
+Sep 03 09:50 : client: [94] closed
+Sep 03 09:52 : client: [95] opened from local
+Sep 03 09:52 : client: [95] closed
+Sep 03 09:53 : client: [96] opened from local
+Sep 03 09:53 : client: [96] closed
+Sep 03 09:55 : client: [97] opened from local
+Sep 03 09:55 : client: [97] closed
+Sep 03 09:57 : client: [98] opened from local
+Sep 03 09:57 : client: [98] closed
+Sep 03 09:58 : client: [99] opened from local
+Sep 03 09:58 : client: [99] closed
+Sep 03 10:00 : client: [100] opened from local
+Sep 03 10:00 : client: [100] closed
+Sep 03 10:04 : client: [101] opened from local
+Sep 03 10:04 : client: [101] closed
+Sep 03 10:05 : client: [102] opened from local
+Sep 03 10:05 : client: [102] closed
+Sep 03 10:53 : client: [103] opened from local
+Sep 03 10:53 : client: [103] closed
+Sep 03 10:55 : client: [104] opened from local
+Sep 03 10:55 : client: [104] closed
+Sep 03 10:57 : client: [105] opened from local
+Sep 03 10:57 : client: [105] closed
+Sep 03 10:58 : client: [106] opened from local
+Sep 03 10:58 : client: [106] closed
+Sep 03 11:00 : client: [107] opened from local
+Sep 03 11:00 : client: [107] closed
+Sep 03 11:02 : client: [108] opened from local
+Sep 03 11:02 : client: [108] closed
+Sep 03 11:03 : client: [109] opened from local
+Sep 03 11:03 : client: [109] closed
+Sep 03 11:05 : client: [110] opened from local
+Sep 03 11:05 : client: [110] closed
+Sep 03 11:07 : client: [111] opened from local
+Sep 03 11:07 : client: [111] closed
+Sep 03 11:08 : client: [112] opened from local
+Sep 03 11:08 : client: [112] closed
+Sep 03 11:10 : client: [113] opened from local
+Sep 03 11:10 : client: [113] closed
+Sep 03 11:12 : client: [114] opened from local
+Sep 03 11:12 : client: [114] closed
+Sep 03 13:30 : client: [115] opened from local
+Sep 03 13:30 : client: [115] closed
+Sep 03 13:31 : client: [116] opened from local
+Sep 03 13:31 : client: [116] closed
+Sep 03 13:33 : client: [117] opened from local
+Sep 03 13:33 : client: [117] closed
+Sep 03 13:35 : client: [118] opened from local
+Sep 03 13:35 : client: [118] closed
+Sep 03 13:36 : client: [119] opened from local
+Sep 03 13:36 : client: [119] closed
+Sep 03 13:38 : client: [120] opened from local
+Sep 03 13:38 : client: [120] closed
+Sep 03 13:40 : client: [121] opened from local
+Sep 03 13:40 : client: [121] closed
+Sep 03 13:41 : client: [122] opened from local
+Sep 03 13:41 : client: [122] closed
+Sep 03 13:43 : client: [123] opened from local
+Sep 03 13:43 : client: [123] closed
+Sep 03 13:45 : client: [124] opened from local
+Sep 03 13:45 : client: [124] closed
+Sep 03 13:46 : client: [125] opened from local
+Sep 03 13:46 : client: [125] closed
+Sep 03 13:48 : client: [126] opened from local
+Sep 03 13:48 : client: [126] closed
+Sep 03 13:50 : client: [127] opened from local
+Sep 03 13:50 : client: [127] closed
+Sep 03 13:51 : client: [128] opened from local
+Sep 03 13:51 : client: [128] closed
+Sep 03 13:53 : client: [129] opened from local
+Sep 03 13:53 : client: [129] closed
+Sep 03 13:55 : client: [130] opened from local
+Sep 03 13:55 : client: [130] closed
+Sep 03 13:56 : client: [131] opened from local
+Sep 03 13:56 : client: [131] closed
+Sep 03 13:58 : client: [132] opened from local
+Sep 03 13:58 : client: [132] closed
+Sep 03 14:00 : client: [133] opened from local
+Sep 03 14:00 : client: [133] closed
+Sep 03 14:01 : client: [134] opened from local
+Sep 03 14:01 : client: [134] closed
+Sep 03 14:03 : client: [135] opened from local
+Sep 03 14:03 : client: [135] closed
+Sep 03 14:05 : client: [136] opened from local
+Sep 03 14:05 : client: [136] closed
+Sep 03 14:06 : client: [137] opened from local
+Sep 03 14:06 : client: [137] closed
+Sep 03 14:08 : client: [138] opened from local
+Sep 03 14:08 : client: [138] closed
+Sep 03 14:10 : client: [139] opened from local
+Sep 03 14:10 : client: [139] closed
+Sep 03 14:11 : client: [140] opened from local
+Sep 03 14:11 : client: [140] closed
+Sep 03 14:13 : client: [141] opened from local
+Sep 03 14:13 : client: [141] closed
+Sep 03 14:15 : client: [142] opened from local
+Sep 03 14:15 : client: [142] closed
+Sep 03 14:16 : client: [143] opened from local
+Sep 03 14:16 : client: [143] closed
+Sep 03 14:18 : client: [144] opened from local
+Sep 03 14:18 : client: [144] closed
+Sep 03 14:20 : client: [145] opened from local
+Sep 03 14:20 : client: [145] closed
+Sep 03 14:21 : client: [146] opened from local
+Sep 03 14:21 : client: [146] closed
+Sep 03 14:23 : client: [147] opened from local
+Sep 03 14:23 : client: [147] closed
+Sep 03 14:25 : client: [148] opened from local
+Sep 03 14:25 : client: [148] closed
+Sep 03 14:26 : client: [149] opened from local
+Sep 03 14:26 : client: [149] closed
+Sep 03 14:43 : client: [150] opened from local
+Sep 03 14:43 : client: [150] closed
+Sep 03 14:45 : client: [151] opened from local
+Sep 03 14:45 : client: [151] closed
+Sep 03 14:46 : client: [152] opened from local
+Sep 03 14:46 : client: [152] closed
+Sep 03 14:48 : client: [153] opened from local
+Sep 03 14:48 : client: [153] closed
+Sep 03 14:50 : client: [154] opened from local
+Sep 03 14:50 : client: [154] closed
+Sep 03 14:51 : client: [155] opened from local
+Sep 03 14:51 : client: [155] closed
+Sep 03 14:53 : client: [156] opened from local
+Sep 03 14:53 : client: [156] closed
+Sep 03 14:55 : client: [157] opened from local
+Sep 03 14:55 : client: [157] closed
+Sep 03 14:56 : client: [158] opened from local
+Sep 03 14:56 : client: [158] closed
+Sep 03 14:58 : client: [159] opened from local
+Sep 03 14:58 : client: [159] closed
+Sep 03 15:00 : client: [160] opened from local
+Sep 03 15:00 : client: [160] closed
+Sep 03 15:01 : client: [161] opened from local
+Sep 03 15:01 : client: [161] closed
+Sep 03 15:03 : client: [162] opened from local
+Sep 03 15:03 : client: [162] closed
+Sep 03 15:05 : client: [163] opened from local
+Sep 03 15:05 : client: [163] closed
+Sep 03 15:06 : client: [164] opened from local
+Sep 03 15:06 : client: [164] closed
+Sep 03 15:08 : client: [165] opened from local
+Sep 03 15:08 : client: [165] closed
+Sep 03 15:10 : client: [166] opened from local
+Sep 03 15:10 : client: [166] closed
+Sep 03 15:11 : client: [167] opened from local
+Sep 03 15:11 : client: [167] closed
+Sep 03 15:13 : client: [168] opened from local
+Sep 03 15:13 : client: [168] closed
+Sep 03 15:15 : client: [169] opened from local
+Sep 03 15:15 : client: [169] closed
+Sep 03 15:16 : client: [170] opened from local
+Sep 03 15:16 : client: [170] closed
+Sep 03 15:18 : client: [171] opened from local
+Sep 03 15:18 : client: [171] closed
+Sep 03 15:20 : client: [172] opened from local
+Sep 03 15:20 : client: [172] closed
+Sep 03 15:21 : client: [173] opened from local
+Sep 03 15:21 : client: [173] closed
+Sep 03 15:23 : client: [174] opened from local
+Sep 03 15:23 : client: [174] closed
+Sep 03 15:25 : client: [175] opened from local
+Sep 03 15:25 : client: [175] closed
+Sep 03 15:26 : client: [176] opened from local
+Sep 03 15:26 : client: [176] closed
+Sep 03 15:28 : client: [177] opened from local
+Sep 03 15:28 : client: [177] closed
+Sep 03 15:30 : client: [178] opened from local
+Sep 03 15:30 : client: [178] closed
+Sep 03 15:31 : client: [179] opened from local
+Sep 03 15:31 : client: [179] closed
+Sep 03 15:33 : client: [180] opened from local
+Sep 03 15:33 : client: [180] closed
+Sep 03 15:35 : client: [181] opened from local
+Sep 03 15:35 : client: [181] closed
+Sep 03 15:36 : client: [182] opened from local
+Sep 03 15:36 : client: [182] closed
+Sep 03 15:38 : client: [183] opened from local
+Sep 03 15:38 : client: [183] closed
+Sep 03 15:40 : client: [184] opened from local
+Sep 03 15:40 : client: [184] closed
+Sep 03 15:41 : client: [185] opened from local
+Sep 03 15:41 : client: [185] closed
+Sep 03 15:43 : client: [186] opened from local
+Sep 03 15:43 : client: [186] closed
+Sep 03 15:45 : client: [187] opened from local
+Sep 03 15:45 : client: [187] closed
+Sep 03 15:46 : client: [188] opened from local
+Sep 03 15:46 : client: [188] closed
+Sep 03 15:48 : client: [189] opened from local
+Sep 03 15:48 : client: [189] closed
+Sep 03 15:50 : client: [190] opened from local
+Sep 03 15:50 : client: [190] closed
+Sep 03 15:51 : client: [191] opened from local
+Sep 03 15:51 : client: [191] closed
+Sep 03 15:53 : client: [192] opened from local
+Sep 03 15:53 : client: [192] closed
+Sep 03 15:55 : client: [193] opened from local
+Sep 03 15:55 : client: [193] closed
+Sep 03 15:56 : client: [194] opened from local
+Sep 03 15:56 : client: [194] closed
+Sep 03 15:58 : client: [195] opened from local
+Sep 03 15:58 : client: [195] closed
+Sep 03 16:00 : client: [196] opened from local
+Sep 03 16:00 : client: [196] closed
+Sep 03 16:01 : client: [197] opened from local
+Sep 03 16:01 : client: [197] closed
+Sep 03 16:03 : client: [198] opened from local
+Sep 03 16:03 : client: [198] closed
+Sep 03 16:05 : client: [199] opened from local
+Sep 03 16:05 : client: [199] closed
+Sep 03 16:06 : client: [200] opened from local
+Sep 03 16:06 : client: [200] closed
+Sep 03 16:08 : client: [201] opened from local
+Sep 03 16:08 : client: [201] closed
+Sep 03 16:10 : client: [202] opened from local
+Sep 03 16:10 : client: [202] closed
+Sep 03 16:11 : client: [203] opened from local
+Sep 03 16:11 : client: [203] closed
+Sep 03 17:00 : client: [204] opened from local
+Sep 03 17:00 : client: [204] closed
+Sep 03 17:02 : client: [205] opened from local
+Sep 03 17:02 : client: [205] closed
+Sep 03 17:03 : client: [206] opened from local
+Sep 03 17:03 : client: [206] closed
+Sep 03 17:05 : client: [207] opened from local
+Sep 03 17:05 : client: [207] closed
+Sep 03 17:07 : client: [208] opened from local
+Sep 03 17:07 : client: [208] closed
+Sep 03 17:08 : client: [209] opened from local
+Sep 03 17:08 : client: [209] closed
+Sep 03 17:10 : client: [210] opened from local
+Sep 03 17:10 : client: [210] closed
+Sep 03 17:12 : client: [211] opened from local
+Sep 03 17:12 : client: [211] closed
+Sep 03 17:13 : client: [212] opened from local
+Sep 03 17:13 : client: [212] closed
+Sep 03 17:15 : client: [213] opened from local
+Sep 03 17:15 : client: [213] closed
+Sep 03 17:17 : client: [214] opened from local
+Sep 03 17:17 : client: [214] closed
+Sep 03 17:18 : client: [215] opened from local
+Sep 03 17:18 : client: [215] closed
+Sep 03 17:20 : client: [216] opened from local
+Sep 03 17:20 : client: [216] closed
+Sep 03 17:22 : client: [217] opened from local
+Sep 03 17:22 : client: [217] closed
+Sep 03 17:23 : client: [218] opened from local
+Sep 03 17:23 : client: [218] closed
+Sep 03 17:25 : client: [219] opened from local
+Sep 03 17:25 : client: [219] closed
+Sep 03 17:27 : client: [220] opened from local
+Sep 03 17:27 : client: [220] closed
+Sep 03 17:28 : client: [221] opened from local
+Sep 03 17:28 : client: [221] closed
+Sep 03 17:30 : client: [222] opened from local
+Sep 03 17:30 : client: [222] closed
+Sep 03 17:32 : client: [223] opened from local
+Sep 03 17:32 : client: [223] closed
+Sep 03 17:33 : client: [224] opened from local
+Sep 03 17:33 : client: [224] closed
+Sep 03 17:35 : client: [225] opened from local
+Sep 03 17:35 : client: [225] closed
+Sep 03 17:37 : client: [226] opened from local
+Sep 03 17:37 : client: [226] closed
+Sep 03 17:38 : client: [227] opened from local
+Sep 03 17:38 : client: [227] closed
+Sep 03 17:40 : client: [228] opened from local
+Sep 03 17:40 : client: [228] closed
+Sep 03 17:42 : client: [229] opened from local
+Sep 03 17:42 : client: [229] closed
+Sep 03 17:43 : client: [230] opened from local
+Sep 03 17:43 : client: [230] closed
+Sep 03 17:45 : client: [231] opened from local
+Sep 03 17:45 : client: [231] closed
+Sep 03 17:47 : client: [232] opened from local
+Sep 03 17:47 : client: [232] closed
+Sep 03 17:48 : client: [233] opened from local
+Sep 03 17:48 : client: [233] closed
+Sep 03 18:01 : client: [234] opened from local
+Sep 03 18:01 : client: [234] closed
+Sep 03 18:03 : client: [235] opened from local
+Sep 03 18:03 : client: [235] closed
+Sep 03 18:05 : client: [236] opened from local
+Sep 03 18:05 : client: [236] closed
+Sep 03 18:06 : client: [237] opened from local
+Sep 03 18:06 : client: [237] closed
+Sep 03 18:08 : client: [238] opened from local
+Sep 03 18:08 : client: [238] closed
+Sep 03 18:10 : client: [239] opened from local
+Sep 03 18:10 : client: [239] closed
+Sep 03 18:11 : client: [240] opened from local
+Sep 03 18:11 : client: [240] closed
+Sep 03 18:13 : client: [241] opened from local
+Sep 03 18:13 : client: [241] closed
+Sep 03 18:15 : client: [242] opened from local
+Sep 03 18:15 : client: [242] closed
+Sep 03 18:16 : client: [243] opened from local
+Sep 03 18:16 : client: [243] closed
+Sep 03 18:18 : client: [244] opened from local
+Sep 03 18:18 : client: [244] closed
+Sep 03 18:20 : client: [245] opened from local
+Sep 03 18:20 : client: [245] closed
+Sep 03 18:21 : client: [246] opened from local
+Sep 03 18:21 : client: [246] closed
+Sep 03 18:23 : client: [247] opened from local
+Sep 03 18:23 : client: [247] closed
+Sep 03 18:25 : client: [248] opened from local
+Sep 03 18:25 : client: [248] closed
+Sep 03 18:26 : client: [249] opened from local
+Sep 03 18:26 : client: [249] closed
+Sep 03 18:28 : client: [250] opened from local
+Sep 03 18:28 : client: [250] closed
+Sep 03 18:30 : client: [251] opened from local
+Sep 03 18:30 : client: [251] closed
+Sep 03 18:31 : client: [252] opened from local
+Sep 03 18:31 : client: [252] closed
+Sep 03 18:33 : client: [253] opened from local
+Sep 03 18:33 : client: [253] closed
+Sep 03 18:35 : client: [254] opened from local
+Sep 03 18:35 : client: [254] closed
+Sep 03 18:36 : client: [255] opened from local
+Sep 03 18:36 : client: [255] closed
+Sep 03 18:38 : client: [256] opened from local
+Sep 03 18:38 : client: [256] closed
+Sep 03 18:40 : client: [257] opened from local
+Sep 03 18:40 : client: [257] closed
+Sep 03 18:41 : client: [258] opened from local
+Sep 03 18:41 : client: [258] closed
+Sep 03 18:43 : client: [259] opened from local
+Sep 03 18:43 : client: [259] closed
+Sep 03 18:45 : client: [260] opened from local
+Sep 03 18:45 : client: [260] closed
+Sep 03 18:46 : client: [261] opened from local
+Sep 03 18:46 : client: [261] closed
+Sep 03 18:48 : client: [262] opened from local
+Sep 03 18:48 : client: [262] closed
+Sep 03 18:50 : client: [263] opened from local
+Sep 03 18:50 : client: [263] closed
+Sep 03 18:51 : client: [264] opened from local
+Sep 03 18:51 : client: [264] closed
+Sep 03 18:53 : client: [265] opened from local
+Sep 03 18:53 : client: [265] closed
+Sep 03 18:55 : client: [266] opened from local
+Sep 03 18:55 : client: [266] closed
+Sep 03 18:56 : client: [267] opened from local
+Sep 03 18:56 : client: [267] closed
+Sep 03 18:58 : client: [268] opened from local
+Sep 03 18:58 : client: [268] closed
+Sep 03 19:00 : client: [269] opened from local
+Sep 03 19:00 : client: [269] closed
+Sep 03 19:01 : client: [270] opened from local
+Sep 03 19:01 : client: [270] closed
+Sep 03 19:03 : client: [271] opened from local
+Sep 03 19:03 : client: [271] closed
+Sep 03 19:05 : client: [272] opened from local
+Sep 03 19:05 : client: [272] closed
+Sep 03 19:06 : client: [273] opened from local
+Sep 03 19:06 : client: [273] closed
+Sep 03 19:08 : client: [274] opened from local
+Sep 03 19:08 : client: [274] closed
+Sep 03 19:10 : client: [275] opened from local
+Sep 03 19:10 : client: [275] closed
+Sep 03 19:11 : client: [276] opened from local
+Sep 03 19:11 : client: [276] closed
+Sep 03 19:13 : client: [277] opened from local
+Sep 03 19:13 : client: [277] closed
+Sep 03 19:15 : client: [278] opened from local
+Sep 03 19:15 : client: [278] closed
+Sep 03 19:16 : client: [279] opened from local
+Sep 03 19:16 : client: [279] closed
+Sep 03 19:18 : client: [280] opened from local
+Sep 03 19:18 : client: [280] closed
+Sep 03 19:20 : client: [281] opened from local
+Sep 03 19:20 : client: [281] closed
+Sep 03 19:21 : client: [282] opened from local
+Sep 03 19:21 : client: [282] closed
+Sep 03 19:23 : client: [283] opened from local
+Sep 03 19:23 : client: [283] closed
+Sep 03 19:49 : client: [284] opened from local
+Sep 03 19:49 : client: [284] closed
+Sep 03 19:51 : client: [285] opened from local
+Sep 03 19:51 : client: [285] closed
+Sep 03 19:53 : client: [286] opened from local
+Sep 03 19:53 : client: [286] closed
+Sep 03 19:54 : client: [287] opened from local
+Sep 03 19:54 : client: [287] closed
+Sep 03 19:56 : client: [288] opened from local
+Sep 03 19:56 : client: [288] closed
+Sep 03 19:58 : client: [289] opened from local
+Sep 03 19:58 : client: [289] closed
+Sep 03 19:59 : client: [290] opened from local
+Sep 03 19:59 : client: [290] closed
+Sep 03 20:01 : client: [291] opened from local
+Sep 03 20:01 : client: [291] closed
+Sep 03 20:03 : client: [292] opened from local
+Sep 03 20:03 : client: [292] closed
+Sep 03 20:04 : client: [293] opened from local
+Sep 03 20:04 : client: [293] closed
+Sep 03 20:06 : client: [294] opened from local
+Sep 03 20:06 : client: [294] closed
+Sep 03 20:08 : client: [295] opened from local
+Sep 03 20:08 : client: [295] closed
+Sep 03 20:09 : client: [296] opened from local
+Sep 03 20:09 : client: [296] closed
+Sep 03 20:11 : client: [297] opened from local
+Sep 03 20:11 : client: [297] closed
+Sep 03 20:13 : client: [298] opened from local
+Sep 03 20:13 : client: [298] closed
+Sep 03 20:14 : client: [299] opened from local
+Sep 03 20:14 : client: [299] closed
+Sep 03 20:16 : client: [300] opened from local
+Sep 03 20:16 : client: [300] closed
+Sep 03 20:18 : client: [301] opened from local
+Sep 03 20:18 : client: [301] closed
+Sep 03 20:19 : client: [302] opened from local
+Sep 03 20:19 : client: [302] closed
+Sep 03 20:21 : client: [303] opened from local
+Sep 03 20:21 : client: [303] closed
+Sep 03 20:23 : client: [304] opened from local
+Sep 03 20:23 : client: [304] closed
+Sep 03 20:24 : client: [305] opened from local
+Sep 03 20:24 : client: [305] closed
+Sep 03 20:26 : client: [306] opened from local
+Sep 03 20:26 : client: [306] closed
+Sep 03 20:28 : client: [307] opened from local
+Sep 03 20:28 : client: [307] closed
+Sep 03 20:29 : client: [308] opened from local
+Sep 03 20:29 : client: [308] closed
+Sep 03 20:31 : client: [309] opened from local
+Sep 03 20:31 : client: [309] closed
+Sep 03 20:33 : client: [310] opened from local
+Sep 03 20:33 : client: [310] closed
+Sep 03 20:34 : client: [311] opened from local
+Sep 03 20:34 : client: [311] closed
+Sep 03 20:36 : client: [312] opened from local
+Sep 03 20:36 : client: [312] closed
+Sep 03 20:38 : client: [313] opened from local
+Sep 03 20:38 : client: [313] closed
+Sep 03 20:39 : client: [314] opened from local
+Sep 03 20:39 : client: [314] closed
+Sep 03 20:41 : client: [315] opened from local
+Sep 03 20:41 : client: [315] closed
+Sep 03 20:43 : client: [316] opened from local
+Sep 03 20:43 : client: [316] closed
+Sep 03 20:44 : client: [317] opened from local
+Sep 03 20:44 : client: [317] closed
+Sep 03 20:46 : client: [318] opened from local
+Sep 03 20:46 : client: [318] closed
+Sep 03 20:48 : client: [319] opened from local
+Sep 03 20:48 : client: [319] closed
+Sep 03 20:49 : client: [320] opened from local
+Sep 03 20:49 : client: [320] closed
+Sep 03 20:51 : client: [321] opened from local
+Sep 03 20:51 : client: [321] closed
+Sep 03 20:53 : client: [322] opened from local
+Sep 03 20:53 : client: [322] closed
+Sep 03 20:54 : client: [323] opened from local
+Sep 03 20:54 : client: [323] closed
+Sep 03 20:56 : client: [324] opened from local
+Sep 03 20:56 : client: [324] closed
+Sep 03 20:58 : client: [325] opened from local
+Sep 03 20:58 : client: [325] closed
+Sep 03 20:59 : client: [326] opened from local
+Sep 03 20:59 : client: [326] closed
+Sep 03 21:01 : client: [327] opened from local
+Sep 03 21:01 : client: [327] closed
+Sep 03 21:03 : client: [328] opened from local
+Sep 03 21:03 : client: [328] closed
+Sep 03 21:04 : client: [329] opened from local
+Sep 03 21:04 : client: [329] closed
+Sep 03 21:06 : client: [330] opened from local
+Sep 03 21:06 : client: [330] closed
+Sep 03 21:08 : client: [331] opened from local
+Sep 03 21:08 : client: [331] closed
+Sep 03 21:09 : client: [332] opened from local
+Sep 03 21:09 : client: [332] closed
+Sep 03 21:11 : client: [333] opened from local
+Sep 03 21:11 : client: [333] closed
+Sep 03 21:13 : client: [334] opened from local
+Sep 03 21:13 : client: [334] closed
+Sep 03 21:14 : client: [335] opened from local
+Sep 03 21:14 : client: [335] closed
+Sep 03 21:16 : client: [336] opened from local
+Sep 03 21:16 : client: [336] closed
+Sep 03 21:18 : client: [337] opened from local
+Sep 03 21:18 : client: [337] closed
+Sep 03 21:19 : client: [338] opened from local
+Sep 03 21:19 : client: [338] closed
+Sep 03 21:21 : client: [339] opened from local
+Sep 03 21:21 : client: [339] closed
+Sep 03 21:23 : client: [340] opened from local
+Sep 03 21:23 : client: [340] closed
+Sep 03 21:24 : client: [341] opened from local
+Sep 03 21:24 : client: [341] closed
+Sep 03 21:26 : client: [342] opened from local
+Sep 03 21:26 : client: [342] closed
+Sep 03 21:28 : client: [343] opened from local
+Sep 03 21:28 : client: [343] closed
+Sep 03 21:29 : client: [344] opened from local
+Sep 03 21:29 : client: [344] closed
+Sep 03 21:31 : client: [345] opened from local
+Sep 03 21:31 : client: [345] closed
+Sep 03 21:33 : client: [346] opened from local
+Sep 03 21:33 : client: [346] closed
+Sep 03 21:34 : client: [347] opened from local
+Sep 03 21:34 : client: [347] closed
+Sep 03 21:36 : client: [348] opened from local
+Sep 03 21:36 : client: [348] closed
+Sep 03 21:38 : client: [349] opened from local
+Sep 03 21:38 : client: [349] closed
+Sep 03 21:39 : client: [350] opened from local
+Sep 03 21:39 : client: [350] closed
+Sep 03 21:41 : client: [351] opened from local
+Sep 03 21:41 : client: [351] closed
+Sep 03 21:43 : client: [352] opened from local
+Sep 03 21:43 : client: [352] closed
+Sep 03 21:44 : client: [353] opened from local
+Sep 03 21:44 : client: [353] closed
+Sep 03 21:46 : client: [354] opened from local
+Sep 03 21:46 : client: [354] closed
+Sep 03 21:48 : client: [355] opened from local
+Sep 03 21:48 : client: [355] closed
+Sep 03 21:49 : client: [356] opened from local
+Sep 03 21:49 : client: [356] closed
+Sep 03 21:51 : client: [357] opened from local
+Sep 03 21:51 : client: [357] closed
+Sep 03 21:53 : client: [358] opened from local
+Sep 03 21:53 : client: [358] closed
+Sep 03 21:54 : client: [359] opened from local
+Sep 03 21:54 : client: [359] closed
+Sep 03 21:56 : client: [360] opened from local
+Sep 03 21:56 : client: [360] closed
+Sep 03 21:58 : client: [361] opened from local
+Sep 03 21:58 : client: [361] closed
+Sep 03 21:59 : client: [362] opened from local
+Sep 03 21:59 : client: [362] closed
+Sep 03 22:01 : client: [363] opened from local
+Sep 03 22:01 : client: [363] closed
+Sep 03 22:03 : client: [364] opened from local
+Sep 03 22:03 : client: [364] closed
+Sep 03 22:04 : client: [365] opened from local
+Sep 03 22:04 : client: [365] closed
+Sep 03 22:06 : client: [366] opened from local
+Sep 03 22:06 : client: [366] closed
+Sep 03 22:08 : client: [367] opened from local
+Sep 03 22:08 : client: [367] closed
+Sep 03 22:09 : client: [368] opened from local
+Sep 03 22:09 : client: [368] closed
+Sep 03 22:11 : client: [369] opened from local
+Sep 03 22:11 : client: [369] closed
+Sep 03 22:13 : client: [370] opened from local
+Sep 03 22:13 : client: [370] closed
+Sep 03 22:14 : client: [371] opened from local
+Sep 03 22:14 : client: [371] closed
+Sep 03 22:16 : client: [372] opened from local
+Sep 03 22:16 : client: [372] closed
+Sep 03 22:18 : client: [373] opened from local
+Sep 03 22:18 : client: [373] closed
+Sep 03 22:19 : client: [374] opened from local
+Sep 03 22:19 : client: [374] closed
+Sep 03 22:21 : client: [375] opened from local
+Sep 03 22:21 : client: [375] closed
+Sep 03 22:23 : client: [376] opened from local
+Sep 03 22:23 : client: [376] closed
+Sep 03 22:24 : client: [377] opened from local
+Sep 03 22:24 : client: [377] closed
+Sep 03 22:26 : client: [378] opened from local
+Sep 03 22:26 : client: [378] closed
+Sep 03 22:28 : client: [379] opened from local
+Sep 03 22:28 : client: [379] closed
+Sep 03 22:29 : client: [380] opened from local
+Sep 03 22:29 : client: [380] closed
+Sep 03 22:31 : client: [381] opened from local
+Sep 03 22:31 : client: [381] closed
+Sep 03 22:33 : client: [382] opened from local
+Sep 03 22:33 : client: [382] closed
+Sep 03 22:34 : client: [383] opened from local
+Sep 03 22:34 : client: [383] closed
+Sep 03 22:36 : client: [384] opened from local
+Sep 03 22:36 : client: [384] closed
+Sep 03 22:38 : client: [385] opened from local
+Sep 03 22:38 : client: [385] closed
+Sep 03 22:39 : client: [386] opened from local
+Sep 03 22:39 : client: [386] closed
+Sep 03 22:41 : client: [387] opened from local
+Sep 03 22:41 : client: [387] closed
+Sep 03 22:43 : client: [388] opened from local
+Sep 03 22:43 : client: [388] closed
+Sep 03 22:44 : client: [389] opened from local
+Sep 03 22:44 : client: [389] closed
+Sep 03 22:46 : client: [390] opened from local
+Sep 03 22:46 : client: [390] closed
+Sep 03 22:48 : client: [391] opened from local
+Sep 03 22:48 : client: [391] closed
+Sep 03 22:49 : client: [392] opened from local
+Sep 03 22:49 : client: [392] closed
+Sep 03 22:51 : client: [393] opened from local
+Sep 03 22:51 : client: [393] closed
+Sep 03 22:53 : client: [394] opened from local
+Sep 03 22:53 : client: [394] closed
+Sep 03 22:54 : client: [395] opened from local
+Sep 03 22:54 : client: [395] closed
+Sep 03 22:56 : client: [396] opened from local
+Sep 03 22:56 : client: [396] closed
+Sep 03 22:58 : client: [397] opened from local
+Sep 03 22:58 : client: [397] closed
+Sep 03 22:59 : client: [398] opened from local
+Sep 03 22:59 : client: [398] closed
+Sep 03 23:01 : client: [399] opened from local
+Sep 03 23:01 : client: [399] closed
+Sep 03 23:03 : client: [400] opened from local
+Sep 03 23:03 : client: [400] closed
+Sep 03 23:04 : client: [401] opened from local
+Sep 03 23:04 : client: [401] closed
+Sep 03 23:06 : client: [402] opened from local
+Sep 03 23:06 : client: [402] closed
+Sep 03 23:08 : client: [403] opened from local
+Sep 03 23:08 : client: [403] closed
+Sep 03 23:09 : client: [404] opened from local
+Sep 03 23:09 : client: [404] closed
+Sep 03 23:11 : client: [405] opened from local
+Sep 03 23:11 : client: [405] closed
+Sep 03 23:13 : client: [406] opened from local
+Sep 03 23:13 : client: [406] closed
+Sep 03 23:14 : client: [407] opened from local
+Sep 03 23:14 : client: [407] closed
+Sep 03 23:16 : client: [408] opened from local
+Sep 03 23:16 : client: [408] closed
+Sep 03 23:18 : client: [409] opened from local
+Sep 03 23:18 : client: [409] closed
+Sep 03 23:19 : client: [410] opened from local
+Sep 03 23:19 : client: [410] closed
+Sep 03 23:21 : client: [411] opened from local
+Sep 03 23:21 : client: [411] closed
+Sep 03 23:23 : client: [412] opened from local
+Sep 03 23:23 : client: [412] closed
+Sep 03 23:24 : client: [413] opened from local
+Sep 03 23:24 : client: [413] closed
+Sep 03 23:26 : client: [414] opened from local
+Sep 03 23:26 : client: [414] closed
+Sep 03 23:28 : client: [415] opened from local
+Sep 03 23:28 : client: [415] closed
+Sep 03 23:29 : client: [416] opened from local
+Sep 03 23:29 : client: [416] closed
+Sep 03 23:31 : client: [417] opened from local
+Sep 03 23:31 : client: [417] closed
+Sep 03 23:33 : client: [418] opened from local
+Sep 03 23:33 : client: [418] closed
+Sep 03 23:34 : client: [419] opened from local
+Sep 03 23:34 : client: [419] closed
+Sep 03 23:36 : client: [420] opened from local
+Sep 03 23:36 : client: [420] closed
+Sep 03 23:38 : client: [421] opened from local
+Sep 03 23:38 : client: [421] closed
+Sep 03 23:39 : client: [422] opened from local
+Sep 03 23:39 : client: [422] closed
+Sep 03 23:41 : client: [423] opened from local
+Sep 03 23:41 : client: [423] closed
+Sep 03 23:43 : client: [424] opened from local
+Sep 03 23:43 : client: [424] closed
+Sep 03 23:44 : client: [425] opened from local
+Sep 03 23:44 : client: [425] closed
+Sep 03 23:46 : client: [426] opened from local
+Sep 03 23:46 : client: [426] closed
+Sep 03 23:48 : client: [427] opened from local
+Sep 03 23:48 : client: [427] closed
+Sep 03 23:49 : client: [428] opened from local
+Sep 03 23:49 : client: [428] closed
+Sep 03 23:51 : client: [429] opened from local
+Sep 03 23:51 : client: [429] closed
+Sep 03 23:53 : client: [430] opened from local
+Sep 03 23:53 : client: [430] closed
+Sep 03 23:54 : client: [431] opened from local
+Sep 03 23:54 : client: [431] closed
+Sep 03 23:56 : client: [432] opened from local
+Sep 03 23:56 : client: [432] closed
+Sep 03 23:58 : client: [433] opened from local
+Sep 03 23:58 : client: [433] closed
+Sep 03 23:59 : client: [434] opened from local
+Sep 03 23:59 : client: [434] closed
+Sep 04 00:01 : client: [435] opened from local
+Sep 04 00:01 : client: [435] closed
+Sep 04 00:03 : client: [436] opened from local
+Sep 04 00:03 : client: [436] closed
+Sep 04 00:04 : client: [437] opened from local
+Sep 04 00:04 : client: [437] closed
+Sep 04 00:06 : client: [438] opened from local
+Sep 04 00:06 : client: [438] closed
+Sep 04 00:08 : client: [439] opened from local
+Sep 04 00:08 : client: [439] closed
+Sep 04 00:09 : client: [440] opened from local
+Sep 04 00:09 : client: [440] closed
+Sep 04 00:11 : client: [441] opened from local
+Sep 04 00:11 : client: [441] closed
+Sep 04 00:13 : client: [442] opened from local
+Sep 04 00:13 : client: [442] closed
+Sep 04 00:14 : client: [443] opened from local
+Sep 04 00:14 : client: [443] closed
+Sep 04 00:16 : client: [444] opened from local
+Sep 04 00:16 : client: [444] closed
+Sep 04 00:18 : client: [445] opened from local
+Sep 04 00:18 : client: [445] closed
+Sep 04 00:19 : client: [446] opened from local
+Sep 04 00:19 : client: [446] closed
+Sep 04 00:21 : client: [447] opened from local
+Sep 04 00:21 : client: [447] closed
+Sep 04 00:23 : client: [448] opened from local
+Sep 04 00:23 : client: [448] closed
+Sep 04 00:24 : client: [449] opened from local
+Sep 04 00:24 : client: [449] closed
+Sep 04 00:26 : client: [450] opened from local
+Sep 04 00:26 : client: [450] closed
+Sep 04 00:28 : client: [451] opened from local
+Sep 04 00:28 : client: [451] closed
+Sep 04 00:29 : client: [452] opened from local
+Sep 04 00:29 : client: [452] closed
+Sep 04 00:31 : client: [453] opened from local
+Sep 04 00:31 : client: [453] closed
+Sep 04 00:33 : client: [454] opened from local
+Sep 04 00:33 : client: [454] closed
+Sep 04 00:34 : client: [455] opened from local
+Sep 04 00:34 : client: [455] closed
+Sep 04 00:36 : client: [456] opened from local
+Sep 04 00:36 : client: [456] closed
+Sep 04 00:38 : client: [457] opened from local
+Sep 04 00:38 : client: [457] closed
+Sep 04 00:39 : client: [458] opened from local
+Sep 04 00:39 : client: [458] closed
+Sep 04 00:41 : client: [459] opened from local
+Sep 04 00:41 : client: [459] closed
+Sep 04 00:43 : client: [460] opened from local
+Sep 04 00:43 : client: [460] closed
+Sep 04 00:44 : client: [461] opened from local
+Sep 04 00:44 : client: [461] closed
+Sep 04 00:46 : client: [462] opened from local
+Sep 04 00:46 : client: [462] closed
+Sep 04 00:48 : client: [463] opened from local
+Sep 04 00:48 : client: [463] closed
+Sep 04 00:49 : client: [464] opened from local
+Sep 04 00:49 : client: [464] closed
+Sep 04 00:51 : client: [465] opened from local
+Sep 04 00:51 : client: [465] closed
+Sep 04 00:53 : client: [466] opened from local
+Sep 04 00:53 : client: [466] closed
+Sep 04 00:54 : client: [467] opened from local
+Sep 04 00:54 : client: [467] closed
+Sep 04 00:56 : client: [468] opened from local
+Sep 04 00:56 : client: [468] closed
+Sep 04 00:58 : client: [469] opened from local
+Sep 04 00:58 : client: [469] closed
+Sep 04 00:59 : client: [470] opened from local
+Sep 04 00:59 : client: [470] closed
+Sep 04 01:01 : client: [471] opened from local
+Sep 04 01:01 : client: [471] closed
+Sep 04 01:03 : client: [472] opened from local
+Sep 04 01:03 : client: [472] closed
+Sep 04 01:04 : client: [473] opened from local
+Sep 04 01:04 : client: [473] closed
+Sep 04 01:06 : client: [474] opened from local
+Sep 04 01:06 : client: [474] closed
+Sep 04 01:08 : client: [475] opened from local
+Sep 04 01:08 : client: [475] closed
+Sep 04 01:09 : client: [476] opened from local
+Sep 04 01:09 : client: [476] closed
+Sep 04 01:11 : client: [477] opened from local
+Sep 04 01:11 : client: [477] closed
+Sep 04 01:13 : client: [478] opened from local
+Sep 04 01:13 : client: [478] closed
+Sep 04 01:14 : client: [479] opened from local
+Sep 04 01:14 : client: [479] closed
+Sep 04 01:16 : client: [480] opened from local
+Sep 04 01:16 : client: [480] closed
+Sep 04 01:18 : client: [481] opened from local
+Sep 04 01:18 : client: [481] closed
+Sep 04 01:19 : client: [482] opened from local
+Sep 04 01:19 : client: [482] closed
+Sep 04 01:21 : client: [483] opened from local
+Sep 04 01:21 : client: [483] closed
+Sep 04 01:23 : client: [484] opened from local
+Sep 04 01:23 : client: [484] closed
+Sep 04 01:24 : client: [485] opened from local
+Sep 04 01:24 : client: [485] closed
+Sep 04 01:26 : client: [486] opened from local
+Sep 04 01:26 : client: [486] closed
+Sep 04 01:28 : client: [487] opened from local
+Sep 04 01:28 : client: [487] closed
+Sep 04 01:29 : client: [488] opened from local
+Sep 04 01:29 : client: [488] closed
+Sep 04 01:31 : client: [489] opened from local
+Sep 04 01:31 : client: [489] closed
+Sep 04 01:33 : client: [490] opened from local
+Sep 04 01:33 : client: [490] closed
+Sep 04 01:34 : client: [491] opened from local
+Sep 04 01:34 : client: [491] closed
+Sep 04 01:36 : client: [492] opened from local
+Sep 04 01:36 : client: [492] closed
+Sep 04 01:38 : client: [493] opened from local
+Sep 04 01:38 : client: [493] closed
+Sep 04 01:39 : client: [494] opened from local
+Sep 04 01:39 : client: [494] closed
+Sep 04 01:41 : client: [495] opened from local
+Sep 04 01:41 : client: [495] closed
+Sep 04 01:43 : client: [496] opened from local
+Sep 04 01:43 : client: [496] closed
+Sep 04 01:44 : client: [497] opened from local
+Sep 04 01:44 : client: [497] closed
+Sep 04 01:46 : client: [498] opened from local
+Sep 04 01:46 : client: [498] closed
+Sep 04 01:48 : client: [499] opened from local
+Sep 04 01:48 : client: [499] closed
+Sep 04 01:49 : client: [500] opened from local
+Sep 04 01:49 : client: [500] closed
+Sep 04 01:51 : client: [501] opened from local
+Sep 04 01:51 : client: [501] closed
+Sep 04 01:53 : client: [502] opened from local
+Sep 04 01:53 : client: [502] closed
+Sep 04 01:54 : client: [503] opened from local
+Sep 04 01:54 : client: [503] closed
+Sep 04 01:56 : client: [504] opened from local
+Sep 04 01:56 : client: [504] closed
+Sep 04 01:58 : client: [505] opened from local
+Sep 04 01:58 : client: [505] closed
+Sep 04 01:59 : client: [506] opened from local
+Sep 04 01:59 : client: [506] closed
+Sep 04 02:01 : client: [507] opened from local
+Sep 04 02:01 : client: [507] closed
+Sep 04 02:03 : client: [508] opened from local
+Sep 04 02:03 : client: [508] closed
+Sep 04 02:04 : client: [509] opened from local
+Sep 04 02:04 : client: [509] closed
+Sep 04 02:06 : client: [510] opened from local
+Sep 04 02:06 : client: [510] closed
+Sep 04 08:05 : client: [511] opened from local
+Sep 04 08:05 : client: [511] closed
+Sep 04 08:07 : client: [512] opened from local
+Sep 04 08:07 : client: [512] closed
+Sep 04 08:09 : client: [513] opened from local
+Sep 04 08:09 : client: [513] closed
+Sep 04 08:10 : client: [514] opened from local
+Sep 04 08:10 : client: [514] closed
+Sep 04 08:12 : client: [515] opened from local
+Sep 04 08:12 : client: [515] closed
+Sep 04 08:14 : client: [516] opened from local
+Sep 04 08:14 : client: [516] closed
+Sep 04 08:15 : client: [517] opened from local
+Sep 04 08:15 : client: [517] closed
+Sep 04 08:17 : client: [518] opened from local
+Sep 04 08:17 : client: [518] closed
+Sep 04 08:19 : client: [519] opened from local
+Sep 04 08:19 : client: [519] closed
+Sep 04 08:20 : client: [520] opened from local
+Sep 04 08:20 : client: [520] closed
+Sep 04 08:22 : client: [521] opened from local
+Sep 04 08:22 : client: [521] closed
+Sep 04 08:24 : client: [522] opened from local
+Sep 04 08:24 : client: [522] closed
+Sep 04 08:25 : client: [523] opened from local
+Sep 04 08:25 : client: [523] closed
+Sep 04 08:27 : client: [524] opened from local
+Sep 04 08:27 : client: [524] closed
+Sep 04 08:29 : client: [525] opened from local
+Sep 04 08:29 : client: [525] closed
+Sep 04 08:30 : client: [526] opened from local
+Sep 04 08:30 : client: [526] closed
+Sep 04 08:32 : client: [527] opened from local
+Sep 04 08:32 : client: [527] closed
+Sep 04 08:34 : client: [528] opened from local
+Sep 04 08:34 : client: [528] closed
+Sep 04 08:35 : client: [529] opened from local
+Sep 04 08:35 : client: [529] closed
+Sep 04 08:37 : client: [530] opened from local
+Sep 04 08:37 : client: [530] closed
+Sep 04 08:39 : client: [531] opened from local
+Sep 04 08:39 : client: [531] closed
+Sep 04 08:40 : client: [532] opened from local
+Sep 04 08:40 : client: [532] closed
+Sep 04 08:42 : client: [533] opened from local
+Sep 04 08:42 : client: [533] closed
+Sep 04 08:44 : client: [534] opened from local
+Sep 04 08:44 : client: [534] closed
+Sep 04 08:45 : client: [535] opened from local
+Sep 04 08:45 : client: [535] closed
+Sep 04 08:47 : client: [536] opened from local
+Sep 04 08:47 : client: [536] closed
+Sep 04 08:49 : client: [537] opened from local
+Sep 04 08:49 : client: [537] closed
+Sep 04 08:50 : client: [538] opened from local
+Sep 04 08:50 : client: [538] closed
+Sep 04 08:52 : client: [539] opened from local
+Sep 04 08:52 : client: [539] closed
+Sep 04 08:54 : client: [540] opened from local
+Sep 04 08:54 : client: [540] closed
+Sep 04 08:55 : client: [541] opened from local
+Sep 04 08:55 : client: [541] closed
+Sep 04 08:57 : client: [542] opened from local
+Sep 04 08:57 : client: [542] closed
+Sep 04 08:59 : client: [543] opened from local
+Sep 04 08:59 : client: [543] closed
+Sep 04 09:00 : client: [544] opened from local
+Sep 04 09:00 : client: [544] closed
+Sep 04 09:02 : client: [545] opened from local
+Sep 04 09:02 : client: [545] closed
+Sep 04 09:04 : client: [546] opened from local
+Sep 04 09:04 : client: [546] closed
+Sep 04 09:05 : client: [547] opened from local
+Sep 04 09:05 : client: [547] closed
+Sep 04 09:07 : client: [548] opened from local
+Sep 04 09:07 : client: [548] closed
+Sep 04 09:09 : client: [549] opened from local
+Sep 04 09:09 : client: [549] closed
+Sep 04 09:10 : client: [550] opened from local
+Sep 04 09:10 : client: [550] closed
+Sep 04 09:21 : client: [551] opened from local
+Sep 04 09:21 : client: [551] closed
+Sep 04 09:22 : client: [552] opened from local
+Sep 04 09:22 : client: [552] closed
+Sep 04 09:24 : client: [553] opened from local
+Sep 04 09:24 : client: [553] closed
+Sep 04 09:26 : client: [554] opened from local
+Sep 04 09:26 : client: [554] closed
+Sep 04 09:27 : client: [555] opened from local
+Sep 04 09:27 : client: [555] closed
+Sep 04 09:29 : client: [556] opened from local
+Sep 04 09:29 : client: [556] closed
+Sep 04 09:31 : client: [557] opened from local
+Sep 04 09:31 : client: [557] closed
+Sep 04 13:53 : client: [558] opened from local
+Sep 04 13:53 : client: [558] closed
+Sep 04 13:55 : client: [559] opened from local
+Sep 04 13:55 : client: [559] closed
+Sep 04 13:56 : client: [560] opened from local
+Sep 04 13:56 : client: [560] closed
+Sep 04 13:58 : client: [561] opened from local
+Sep 04 13:58 : client: [561] closed
+Sep 04 14:00 : client: [562] opened from local
+Sep 04 14:00 : client: [562] closed
+Sep 04 14:01 : client: [563] opened from local
+Sep 04 14:01 : client: [563] closed
+Sep 04 14:03 : client: [564] opened from local
+Sep 04 14:03 : client: [564] closed
+Sep 04 14:05 : client: [565] opened from local
+Sep 04 14:05 : client: [565] closed
+Sep 04 14:06 : client: [566] opened from local
+Sep 04 14:06 : client: [566] closed
+Sep 04 14:22 : client: [567] opened from local
+Sep 04 14:22 : client: [567] closed
+Sep 04 14:24 : client: [568] opened from local
+Sep 04 14:24 : client: [568] closed
+Sep 04 14:26 : client: [569] opened from local
+Sep 04 14:26 : client: [569] closed
+Sep 04 14:27 : client: [570] opened from local
+Sep 04 14:27 : client: [570] closed
+Sep 04 14:29 : client: [571] opened from local
+Sep 04 14:29 : client: [571] closed
+Sep 04 14:31 : client: [572] opened from local
+Sep 04 14:31 : client: [572] closed
+Sep 04 14:32 : client: [573] opened from local
+Sep 04 14:32 : client: [573] closed
+Sep 04 14:34 : client: [574] opened from local
+Sep 04 14:34 : client: [574] closed
+Sep 04 14:36 : client: [575] opened from local
+Sep 04 14:36 : client: [575] closed
+Sep 04 14:37 : client: [576] opened from local
+Sep 04 14:37 : client: [576] closed
+Sep 04 14:39 : client: [577] opened from local
+Sep 04 14:39 : client: [577] closed
+Sep 04 14:41 : client: [578] opened from local
+Sep 04 14:41 : client: [578] closed
+Sep 04 14:42 : client: [579] opened from local
+Sep 04 14:42 : client: [579] closed
+Sep 04 14:44 : client: [580] opened from local
+Sep 04 14:44 : client: [580] closed
+Sep 04 14:46 : client: [581] opened from local
+Sep 04 14:46 : client: [581] closed
+Sep 04 14:47 : client: [582] opened from local
+Sep 04 14:47 : client: [582] closed
+Sep 04 14:49 : client: [583] opened from local
+Sep 04 14:49 : client: [583] closed
+Sep 04 14:51 : client: [584] opened from local
+Sep 04 14:51 : client: [584] closed
+Sep 04 14:52 : client: [585] opened from local
+Sep 04 14:52 : client: [585] closed
+Sep 04 14:54 : client: [586] opened from local
+Sep 04 14:54 : client: [586] closed
+Sep 04 14:56 : client: [587] opened from local
+Sep 04 14:56 : client: [587] closed
+Sep 04 14:57 : client: [588] opened from local
+Sep 04 14:57 : client: [588] closed
+Sep 04 14:59 : client: [589] opened from local
+Sep 04 14:59 : client: [589] closed
+Sep 04 15:01 : client: [590] opened from local
+Sep 04 15:01 : client: [590] closed
+Sep 04 15:02 : client: [591] opened from local
+Sep 04 15:02 : client: [591] closed
+Sep 04 15:04 : client: [592] opened from local
+Sep 04 15:04 : client: [592] closed
+Sep 04 15:06 : client: [593] opened from local
+Sep 04 15:06 : client: [593] closed
+Sep 04 15:07 : client: [594] opened from local
+Sep 04 15:07 : client: [594] closed
+Sep 04 15:09 : client: [595] opened from local
+Sep 04 15:09 : client: [595] closed
+Sep 04 15:11 : client: [596] opened from local
+Sep 04 15:11 : client: [596] closed
+Sep 04 15:12 : client: [597] opened from local
+Sep 04 15:12 : client: [597] closed
+Sep 04 15:14 : client: [598] opened from local
+Sep 04 15:14 : client: [598] closed
+Sep 04 15:16 : client: [599] opened from local
+Sep 04 15:16 : client: [599] closed
+Sep 04 15:17 : client: [600] opened from local
+Sep 04 15:17 : client: [600] closed
+Sep 04 15:19 : client: [601] opened from local
+Sep 04 15:19 : client: [601] closed
+Sep 04 15:21 : client: [602] opened from local
+Sep 04 15:21 : client: [602] closed
+Sep 04 15:22 : client: [603] opened from local
+Sep 04 15:22 : client: [603] closed
+Sep 04 15:24 : client: [604] opened from local
+Sep 04 15:24 : client: [604] closed
+Sep 04 15:26 : client: [605] opened from local
+Sep 04 15:26 : client: [605] closed
+Sep 04 15:27 : client: [606] opened from local
+Sep 04 15:27 : client: [606] closed
+Sep 04 15:29 : client: [607] opened from local
+Sep 04 15:29 : client: [607] closed
+Sep 04 15:31 : client: [608] opened from local
+Sep 04 15:31 : client: [608] closed
+Sep 04 16:23 : client: [609] opened from local
+Sep 04 16:23 : client: [609] closed
+Sep 04 16:24 : client: [610] opened from local
+Sep 04 16:24 : client: [610] closed
+Sep 04 16:26 : client: [611] opened from local
+Sep 04 16:26 : client: [611] closed
+Sep 04 16:28 : client: [612] opened from local
+Sep 04 16:28 : client: [612] closed
+Sep 04 16:29 : client: [613] opened from local
+Sep 04 16:29 : client: [613] closed
+Sep 04 16:31 : client: [614] opened from local
+Sep 04 16:31 : client: [614] closed
+Sep 04 16:33 : client: [615] opened from local
+Sep 04 16:33 : client: [615] closed
+Sep 04 16:34 : client: [616] opened from local
+Sep 04 16:34 : client: [616] closed
+Sep 04 16:36 : client: [617] opened from local
+Sep 04 16:36 : client: [617] closed
+Sep 04 16:38 : client: [618] opened from local
+Sep 04 16:38 : client: [618] closed
+Sep 04 16:39 : client: [619] opened from local
+Sep 04 16:39 : client: [619] closed
+Sep 04 16:41 : client: [620] opened from local
+Sep 04 16:41 : client: [620] closed
+Sep 04 16:43 : client: [621] opened from local
+Sep 04 16:43 : client: [621] closed
+Sep 04 16:44 : client: [622] opened from local
+Sep 04 16:44 : client: [622] closed
+Sep 04 16:46 : client: [623] opened from local
+Sep 04 16:46 : client: [623] closed
+Sep 04 16:48 : client: [624] opened from local
+Sep 04 16:48 : client: [624] closed
+Sep 04 16:49 : client: [625] opened from local
+Sep 04 16:49 : client: [625] closed
+Sep 04 16:51 : client: [626] opened from local
+Sep 04 16:51 : client: [626] closed
+Sep 04 16:53 : client: [627] opened from local
+Sep 04 16:53 : client: [627] closed
+Sep 04 16:54 : client: [628] opened from local
+Sep 04 16:54 : client: [628] closed
+Sep 04 16:56 : client: [629] opened from local
+Sep 04 16:56 : client: [629] closed
+Sep 04 16:58 : client: [630] opened from local
+Sep 04 16:58 : client: [630] closed
+Sep 04 16:59 : client: [631] opened from local
+Sep 04 16:59 : client: [631] closed
+Sep 04 17:01 : client: [632] opened from local
+Sep 04 17:01 : client: [632] closed
+Sep 04 17:03 : client: [633] opened from local
+Sep 04 17:03 : client: [633] closed
+Sep 04 17:04 : client: [634] opened from local
+Sep 04 17:04 : client: [634] closed
+Sep 04 17:06 : client: [635] opened from local
+Sep 04 17:06 : client: [635] closed
+Sep 04 17:08 : client: [636] opened from local
+Sep 04 17:08 : client: [636] closed
+Sep 04 17:09 : client: [637] opened from local
+Sep 04 17:09 : client: [637] closed
+Sep 04 17:11 : client: [638] opened from local
+Sep 04 17:11 : client: [638] closed
+Sep 04 17:13 : client: [639] opened from local
+Sep 04 17:13 : client: [639] closed
+Sep 04 17:14 : client: [640] opened from local
+Sep 04 17:14 : client: [640] closed
+Sep 04 17:16 : client: [641] opened from local
+Sep 04 17:16 : client: [641] closed
+Sep 04 17:18 : client: [642] opened from local
+Sep 04 17:18 : client: [642] closed
+Sep 04 17:19 : client: [643] opened from local
+Sep 04 17:19 : client: [643] closed
+Sep 04 17:21 : client: [644] opened from local
+Sep 04 17:21 : client: [644] closed
+Sep 04 17:23 : client: [645] opened from local
+Sep 04 17:23 : client: [645] closed
+Sep 04 17:24 : client: [646] opened from local
+Sep 04 17:24 : client: [646] closed
+Sep 04 17:26 : client: [647] opened from local
+Sep 04 17:26 : client: [647] closed
+Sep 04 17:28 : client: [648] opened from local
+Sep 04 17:28 : client: [648] closed
+Sep 04 17:29 : client: [649] opened from local
+Sep 04 17:29 : client: [649] closed
+Sep 04 17:31 : client: [650] opened from local
+Sep 04 17:31 : client: [650] closed
+Sep 04 17:33 : client: [651] opened from local
+Sep 04 17:33 : client: [651] closed
+Sep 04 17:34 : client: [652] opened from local
+Sep 04 17:34 : client: [652] closed
+Sep 04 17:36 : client: [653] opened from local
+Sep 04 17:36 : client: [653] closed
+Sep 04 17:38 : client: [654] opened from local
+Sep 04 17:38 : client: [654] closed
+Sep 04 17:39 : client: [655] opened from local
+Sep 04 17:39 : client: [655] closed
+Sep 04 17:41 : client: [656] opened from local
+Sep 04 17:41 : client: [656] closed
+Sep 04 17:43 : client: [657] opened from local
+Sep 04 17:43 : client: [657] closed
+Sep 04 17:44 : client: [658] opened from local
+Sep 04 17:44 : client: [658] closed
+Sep 04 17:46 : client: [659] opened from local
+Sep 04 17:46 : client: [659] closed
+Sep 04 17:48 : client: [660] opened from local
+Sep 04 17:48 : client: [660] closed
+Sep 04 17:49 : client: [661] opened from local
+Sep 04 17:49 : client: [661] closed
+Sep 04 17:51 : client: [662] opened from local
+Sep 04 17:51 : client: [662] closed
+Sep 04 17:53 : client: [663] opened from local
+Sep 04 17:53 : client: [663] closed
+Sep 04 17:54 : client: [664] opened from local
+Sep 04 17:54 : client: [664] closed
+Sep 04 17:56 : client: [665] opened from local
+Sep 04 17:56 : client: [665] closed
+Sep 04 17:58 : client: [666] opened from local
+Sep 04 17:58 : client: [666] closed
+Sep 04 17:59 : client: [667] opened from local
+Sep 04 17:59 : client: [667] closed
+Sep 04 18:01 : client: [668] opened from local
+Sep 04 18:01 : client: [668] closed
+Sep 04 18:03 : client: [669] opened from local
+Sep 04 18:03 : client: [669] closed
+Sep 04 18:04 : client: [670] opened from local
+Sep 04 18:04 : client: [670] closed
+Sep 04 18:06 : client: [671] opened from local
+Sep 04 18:06 : client: [671] closed
+Sep 04 18:08 : client: [672] opened from local
+Sep 04 18:08 : client: [672] closed
+Sep 04 18:09 : client: [673] opened from local
+Sep 04 18:09 : client: [673] closed
+Sep 04 18:11 : client: [674] opened from local
+Sep 04 18:11 : client: [674] closed
+Sep 04 18:13 : client: [675] opened from local
+Sep 04 18:13 : client: [675] closed
+Sep 04 18:14 : client: [676] opened from local
+Sep 04 18:14 : client: [676] closed
+Sep 04 18:16 : client: [677] opened from local
+Sep 04 18:16 : client: [677] closed
+Sep 04 18:18 : client: [678] opened from local
+Sep 04 18:18 : client: [678] closed
+Sep 04 18:19 : client: [679] opened from local
+Sep 04 18:19 : client: [679] closed
+Sep 04 18:21 : client: [680] opened from local
+Sep 04 18:21 : client: [680] closed
+Sep 04 18:23 : client: [681] opened from local
+Sep 04 18:23 : client: [681] closed
+Sep 04 18:24 : client: [682] opened from local
+Sep 04 18:24 : client: [682] closed
+Sep 04 18:26 : client: [683] opened from local
+Sep 04 18:26 : client: [683] closed
+Sep 04 18:28 : client: [684] opened from local
+Sep 04 18:28 : client: [684] closed
+Sep 04 18:29 : client: [685] opened from local
+Sep 04 18:29 : client: [685] closed
+Sep 04 18:31 : client: [686] opened from local
+Sep 04 18:31 : client: [686] closed
+Sep 04 18:33 : client: [687] opened from local
+Sep 04 18:33 : client: [687] closed
+Sep 04 18:34 : client: [688] opened from local
+Sep 04 18:34 : client: [688] closed
+Sep 04 18:36 : client: [689] opened from local
+Sep 04 18:36 : client: [689] closed
+Sep 04 18:38 : client: [690] opened from local
+Sep 04 18:38 : client: [690] closed
+Sep 04 18:39 : client: [691] opened from local
+Sep 04 18:39 : client: [691] closed
+Sep 04 18:41 : client: [692] opened from local
+Sep 04 18:41 : client: [692] closed
+Sep 04 18:43 : client: [693] opened from local
+Sep 04 18:43 : client: [693] closed
+Sep 04 18:44 : client: [694] opened from local
+Sep 04 18:44 : client: [694] closed
+Sep 04 18:46 : client: [695] opened from local
+Sep 04 18:46 : client: [695] closed
+Sep 04 18:48 : client: [696] opened from local
+Sep 04 18:48 : client: [696] closed
+Sep 04 18:49 : client: [697] opened from local
+Sep 04 18:49 : client: [697] closed
+Sep 04 18:51 : client: [698] opened from local
+Sep 04 18:51 : client: [698] closed
+Sep 04 18:53 : client: [699] opened from local
+Sep 04 18:53 : client: [699] closed
+Sep 04 18:54 : client: [700] opened from local
+Sep 04 18:54 : client: [700] closed
+Sep 04 18:56 : client: [701] opened from local
+Sep 04 18:56 : client: [701] closed
+Sep 04 18:58 : client: [702] opened from local
+Sep 04 18:58 : client: [702] closed
+Sep 04 19:43 : client: [703] opened from local
+Sep 04 19:43 : client: [703] closed
+Sep 04 19:45 : client: [704] opened from local
+Sep 04 19:45 : client: [704] closed
+Sep 04 19:46 : client: [705] opened from local
+Sep 04 19:46 : client: [705] closed
+Sep 04 19:48 : client: [706] opened from local
+Sep 04 19:48 : client: [706] closed
+Sep 04 19:50 : client: [707] opened from local
+Sep 04 19:50 : client: [707] closed
+Sep 04 19:51 : client: [708] opened from local
+Sep 04 19:51 : client: [708] closed
+Sep 04 19:53 : client: [709] opened from local
+Sep 04 19:53 : client: [709] closed
+Sep 04 19:55 : client: [710] opened from local
+Sep 04 19:55 : client: [710] closed
+Sep 04 19:56 : client: [711] opened from local
+Sep 04 19:56 : client: [711] closed
+Sep 04 19:58 : client: [712] opened from local
+Sep 04 19:58 : client: [712] closed
+Sep 04 20:00 : client: [713] opened from local
+Sep 04 20:00 : client: [713] closed
+Sep 04 20:01 : client: [714] opened from local
+Sep 04 20:01 : client: [714] closed
+Sep 04 20:03 : client: [715] opened from local
+Sep 04 20:03 : client: [715] closed
+Sep 04 20:05 : client: [716] opened from local
+Sep 04 20:05 : client: [716] closed
+Sep 04 20:06 : client: [717] opened from local
+Sep 04 20:06 : client: [717] closed
+Sep 04 20:08 : client: [718] opened from local
+Sep 04 20:08 : client: [718] closed
+Sep 04 20:10 : client: [719] opened from local
+Sep 04 20:10 : client: [719] closed
+Sep 04 20:11 : client: [720] opened from local
+Sep 04 20:11 : client: [720] closed
+Sep 04 20:13 : client: [721] opened from local
+Sep 04 20:13 : client: [721] closed
+Sep 04 20:15 : client: [722] opened from local
+Sep 04 20:15 : client: [722] closed
+Sep 04 20:16 : client: [723] opened from local
+Sep 04 20:16 : client: [723] closed
+Sep 04 20:18 : client: [724] opened from local
+Sep 04 20:18 : client: [724] closed
+Sep 04 20:20 : client: [725] opened from local
+Sep 04 20:20 : client: [725] closed
+Sep 04 20:21 : client: [726] opened from local
+Sep 04 20:21 : client: [726] closed
+Sep 04 20:23 : client: [727] opened from local
+Sep 04 20:23 : client: [727] closed
+Sep 04 20:25 : client: [728] opened from local
+Sep 04 20:25 : client: [728] closed
+Sep 04 20:26 : client: [729] opened from local
+Sep 04 20:26 : client: [729] closed
+Sep 04 20:28 : client: [730] opened from local
+Sep 04 20:28 : client: [730] closed
+Sep 04 20:30 : client: [731] opened from local
+Sep 04 20:30 : client: [731] closed
+Sep 04 20:31 : client: [732] opened from local
+Sep 04 20:31 : client: [732] closed
+Sep 04 20:33 : client: [733] opened from local
+Sep 04 20:33 : client: [733] closed
+Sep 04 20:35 : client: [734] opened from local
+Sep 04 20:35 : client: [734] closed
+Sep 04 20:36 : client: [735] opened from local
+Sep 04 20:36 : client: [735] closed
+Sep 04 20:38 : client: [736] opened from local
+Sep 04 20:38 : client: [736] closed
+Sep 04 20:40 : client: [737] opened from local
+Sep 04 20:40 : client: [737] closed
+Sep 04 20:41 : client: [738] opened from local
+Sep 04 20:41 : client: [738] closed
+Sep 04 20:43 : client: [739] opened from local
+Sep 04 20:43 : client: [739] closed
+Sep 04 20:45 : client: [740] opened from local
+Sep 04 20:45 : client: [740] closed
+Sep 04 20:46 : client: [741] opened from local
+Sep 04 20:46 : client: [741] closed
+Sep 04 20:48 : client: [742] opened from local
+Sep 04 20:48 : client: [742] closed
+Sep 04 20:50 : client: [743] opened from local
+Sep 04 20:50 : client: [743] closed
+Sep 04 20:51 : client: [744] opened from local
+Sep 04 20:51 : client: [744] closed
+Sep 04 20:53 : client: [745] opened from local
+Sep 04 20:53 : client: [745] closed
+Sep 04 20:55 : client: [746] opened from local
+Sep 04 20:55 : client: [746] closed
+Sep 04 20:56 : client: [747] opened from local
+Sep 04 20:56 : client: [747] closed
+Sep 04 20:58 : client: [748] opened from local
+Sep 04 20:58 : client: [748] closed
+Sep 04 21:00 : client: [749] opened from local
+Sep 04 21:00 : client: [749] closed
+Sep 04 21:01 : client: [750] opened from local
+Sep 04 21:01 : client: [750] closed
+Sep 04 21:03 : client: [751] opened from local
+Sep 04 21:03 : client: [751] closed
+Sep 04 21:05 : client: [752] opened from local
+Sep 04 21:05 : client: [752] closed
+Sep 04 21:06 : client: [753] opened from local
+Sep 04 21:06 : client: [753] closed
+Sep 04 21:08 : client: [754] opened from local
+Sep 04 21:08 : client: [754] closed
+Sep 04 21:10 : client: [755] opened from local
+Sep 04 21:10 : client: [755] closed
+Sep 04 21:11 : client: [756] opened from local
+Sep 04 21:11 : client: [756] closed
+Sep 04 21:13 : client: [757] opened from local
+Sep 04 21:13 : client: [757] closed
+Sep 04 21:15 : client: [758] opened from local
+Sep 04 21:15 : client: [758] closed
+Sep 04 21:16 : client: [759] opened from local
+Sep 04 21:16 : client: [759] closed
+Sep 04 21:18 : client: [760] opened from local
+Sep 04 21:18 : client: [760] closed
+Sep 04 21:20 : client: [761] opened from local
+Sep 04 21:20 : client: [761] closed
+Sep 04 21:21 : client: [762] opened from local
+Sep 04 21:21 : client: [762] closed
+Sep 04 21:23 : client: [763] opened from local
+Sep 04 21:23 : client: [763] closed
+Sep 04 21:25 : client: [764] opened from local
+Sep 04 21:25 : client: [764] closed
+Sep 04 21:26 : client: [765] opened from local
+Sep 04 21:26 : client: [765] closed
+Sep 04 21:28 : client: [766] opened from local
+Sep 04 21:28 : client: [766] closed
+Sep 04 21:30 : client: [767] opened from local
+Sep 04 21:30 : client: [767] closed
+Sep 04 21:31 : client: [768] opened from local
+Sep 04 21:31 : client: [768] closed
+Sep 04 21:33 : client: [769] opened from local
+Sep 04 21:33 : client: [769] closed
+Sep 04 21:35 : client: [770] opened from local
+Sep 04 21:35 : client: [770] closed
+Sep 04 21:50 : client: [771] opened from local
+Sep 04 21:50 : client: [771] closed
+Sep 04 21:52 : client: [772] opened from local
+Sep 04 21:52 : client: [772] closed
+Sep 04 21:54 : client: [773] opened from local
+Sep 04 21:54 : client: [773] closed
+Sep 04 21:55 : client: [774] opened from local
+Sep 04 21:55 : client: [774] closed
+Sep 04 21:57 : client: [775] opened from local
+Sep 04 21:57 : client: [775] closed
+Sep 04 21:59 : client: [776] opened from local
+Sep 04 21:59 : client: [776] closed
+Sep 04 22:00 : client: [777] opened from local
+Sep 04 22:00 : client: [777] closed
+Sep 04 22:02 : client: [778] opened from local
+Sep 04 22:02 : client: [778] closed
+Sep 04 22:04 : client: [779] opened from local
+Sep 04 22:04 : client: [779] closed
+Sep 04 22:05 : client: [780] opened from local
+Sep 04 22:05 : client: [780] closed
+Sep 04 22:07 : client: [781] opened from local
+Sep 04 22:07 : client: [781] closed
+Sep 04 22:09 : client: [782] opened from local
+Sep 04 22:09 : client: [782] closed
+Sep 04 22:10 : client: [783] opened from local
+Sep 04 22:10 : client: [783] closed
+Sep 04 22:12 : client: [784] opened from local
+Sep 04 22:12 : client: [784] closed
+Sep 04 22:14 : client: [785] opened from local
+Sep 04 22:14 : client: [785] closed
+Sep 04 22:15 : client: [786] opened from local
+Sep 04 22:15 : client: [786] closed
+Sep 04 22:17 : client: [787] opened from local
+Sep 04 22:17 : client: [787] closed
+Sep 04 22:19 : client: [788] opened from local
+Sep 04 22:19 : client: [788] closed
+Sep 04 22:20 : client: [789] opened from local
+Sep 04 22:20 : client: [789] closed
+Sep 04 22:22 : client: [790] opened from local
+Sep 04 22:22 : client: [790] closed
+Sep 04 22:24 : client: [791] opened from local
+Sep 04 22:24 : client: [791] closed
+Sep 04 22:25 : client: [792] opened from local
+Sep 04 22:25 : client: [792] closed
+Sep 04 22:27 : client: [793] opened from local
+Sep 04 22:27 : client: [793] closed
+Sep 04 22:29 : client: [794] opened from local
+Sep 04 22:29 : client: [794] closed
+Sep 04 22:30 : client: [795] opened from local
+Sep 04 22:30 : client: [795] closed
+Sep 04 22:32 : client: [796] opened from local
+Sep 04 22:32 : client: [796] closed
+Sep 04 22:34 : client: [797] opened from local
+Sep 04 22:34 : client: [797] closed
+Sep 04 22:35 : client: [798] opened from local
+Sep 04 22:35 : client: [798] closed
+Sep 04 22:37 : client: [799] opened from local
+Sep 04 22:37 : client: [799] closed
+Sep 04 22:39 : client: [800] opened from local
+Sep 04 22:39 : client: [800] closed
+Sep 04 22:40 : client: [801] opened from local
+Sep 04 22:40 : client: [801] closed
+Sep 04 22:42 : client: [802] opened from local
+Sep 04 22:42 : client: [802] closed
+Sep 04 22:44 : client: [803] opened from local
+Sep 04 22:44 : client: [803] closed
+Sep 04 22:45 : client: [804] opened from local
+Sep 04 22:45 : client: [804] closed
+Sep 04 22:47 : client: [805] opened from local
+Sep 04 22:47 : client: [805] closed
+Sep 04 22:49 : client: [806] opened from local
+Sep 04 22:49 : client: [806] closed
+Sep 04 22:50 : client: [807] opened from local
+Sep 04 22:50 : client: [807] closed
+Sep 04 22:52 : client: [808] opened from local
+Sep 04 22:52 : client: [808] closed
+Sep 04 22:54 : client: [809] opened from local
+Sep 04 22:54 : client: [809] closed
+Sep 04 22:55 : client: [810] opened from local
+Sep 04 22:55 : client: [810] closed
+Sep 04 22:57 : client: [811] opened from local
+Sep 04 22:57 : client: [811] closed
+Sep 04 22:59 : client: [812] opened from local
+Sep 04 22:59 : client: [812] closed
+Sep 04 23:00 : client: [813] opened from local
+Sep 04 23:00 : client: [813] closed
+Sep 04 23:02 : client: [814] opened from local
+Sep 04 23:02 : client: [814] closed
+Sep 04 23:04 : client: [815] opened from local
+Sep 04 23:04 : client: [815] closed
+Sep 04 23:05 : client: [816] opened from local
+Sep 04 23:05 : client: [816] closed
+Sep 04 23:07 : client: [817] opened from local
+Sep 04 23:07 : client: [817] closed
+Sep 04 23:09 : client: [818] opened from local
+Sep 04 23:09 : client: [818] closed
+Sep 04 23:10 : client: [819] opened from local
+Sep 04 23:10 : client: [819] closed
+Sep 04 23:12 : client: [820] opened from local
+Sep 04 23:12 : client: [820] closed
+Sep 04 23:14 : client: [821] opened from local
+Sep 04 23:14 : client: [821] closed
+Sep 04 23:15 : client: [822] opened from local
+Sep 04 23:15 : client: [822] closed
+Sep 04 23:17 : client: [823] opened from local
+Sep 04 23:17 : client: [823] closed
+Sep 04 23:19 : client: [824] opened from local
+Sep 04 23:19 : client: [824] closed
+Sep 04 23:20 : client: [825] opened from local
+Sep 04 23:20 : client: [825] closed
+Sep 04 23:22 : client: [826] opened from local
+Sep 04 23:22 : client: [826] closed
+Sep 04 23:24 : client: [827] opened from local
+Sep 04 23:24 : client: [827] closed
+Sep 04 23:25 : client: [828] opened from local
+Sep 04 23:25 : client: [828] closed
+Sep 04 23:27 : client: [829] opened from local
+Sep 04 23:27 : client: [829] closed
+Sep 04 23:29 : client: [830] opened from local
+Sep 04 23:29 : client: [830] closed
+Sep 04 23:30 : client: [831] opened from local
+Sep 04 23:30 : client: [831] closed
+Sep 04 23:32 : client: [832] opened from local
+Sep 04 23:32 : client: [832] closed
+Sep 04 23:34 : client: [833] opened from local
+Sep 04 23:34 : client: [833] closed
+Sep 04 23:35 : client: [834] opened from local
+Sep 04 23:35 : client: [834] closed
+Sep 04 23:37 : client: [835] opened from local
+Sep 04 23:37 : client: [835] closed
+Sep 04 23:39 : client: [836] opened from local
+Sep 04 23:39 : client: [836] closed
+Sep 04 23:40 : client: [837] opened from local
+Sep 04 23:40 : client: [837] closed
+Sep 04 23:42 : client: [838] opened from local
+Sep 04 23:42 : client: [838] closed
+Sep 04 23:44 : client: [839] opened from local
+Sep 04 23:44 : client: [839] closed
+Sep 04 23:45 : client: [840] opened from local
+Sep 04 23:45 : client: [840] closed
+Sep 04 23:47 : client: [841] opened from local
+Sep 04 23:47 : client: [841] closed
+Sep 04 23:49 : client: [842] opened from local
+Sep 04 23:49 : client: [842] closed
+Sep 04 23:50 : client: [843] opened from local
+Sep 04 23:50 : client: [843] closed
+Sep 04 23:52 : client: [844] opened from local
+Sep 04 23:52 : client: [844] closed
+Sep 04 23:54 : client: [845] opened from local
+Sep 04 23:54 : client: [845] closed
+Sep 04 23:55 : client: [846] opened from local
+Sep 04 23:55 : client: [846] closed
+Sep 04 23:57 : client: [847] opened from local
+Sep 04 23:57 : client: [847] closed
+Sep 04 23:59 : client: [848] opened from local
+Sep 04 23:59 : client: [848] closed
+Sep 05 00:00 : client: [849] opened from local
+Sep 05 00:00 : client: [849] closed
+Sep 05 00:02 : client: [850] opened from local
+Sep 05 00:02 : client: [850] closed
+Sep 05 00:04 : client: [851] opened from local
+Sep 05 00:04 : client: [851] closed
+Sep 05 00:05 : client: [852] opened from local
+Sep 05 00:05 : client: [852] closed
+Sep 05 00:07 : client: [853] opened from local
+Sep 05 00:07 : client: [853] closed
+Sep 05 00:09 : client: [854] opened from local
+Sep 05 00:09 : client: [854] closed
+Sep 05 00:10 : client: [855] opened from local
+Sep 05 00:10 : client: [855] closed
+Sep 05 00:12 : client: [856] opened from local
+Sep 05 00:12 : client: [856] closed
+Sep 05 00:14 : client: [857] opened from local
+Sep 05 00:14 : client: [857] closed
+Sep 05 00:15 : client: [858] opened from local
+Sep 05 00:15 : client: [858] closed
+Sep 05 00:17 : client: [859] opened from local
+Sep 05 00:17 : client: [859] closed
+Sep 05 00:19 : client: [860] opened from local
+Sep 05 00:19 : client: [860] closed
+Sep 05 00:20 : client: [861] opened from local
+Sep 05 00:20 : client: [861] closed
+Sep 05 00:22 : client: [862] opened from local
+Sep 05 00:22 : client: [862] closed
+Sep 05 00:24 : client: [863] opened from local
+Sep 05 00:24 : client: [863] closed
+Sep 05 00:25 : client: [864] opened from local
+Sep 05 00:25 : client: [864] closed
+Sep 05 00:27 : client: [865] opened from local
+Sep 05 00:27 : client: [865] closed
+Sep 05 00:29 : client: [866] opened from local
+Sep 05 00:29 : client: [866] closed
+Sep 05 00:30 : client: [867] opened from local
+Sep 05 00:30 : client: [867] closed
+Sep 05 00:32 : client: [868] opened from local
+Sep 05 00:32 : client: [868] closed
+Sep 05 00:34 : client: [869] opened from local
+Sep 05 00:34 : client: [869] closed
+Sep 05 00:35 : client: [870] opened from local
+Sep 05 00:35 : client: [870] closed
+Sep 05 00:37 : client: [871] opened from local
+Sep 05 00:37 : client: [871] closed
+Sep 05 00:39 : client: [872] opened from local
+Sep 05 00:39 : client: [872] closed
+Sep 05 00:40 : client: [873] opened from local
+Sep 05 00:40 : client: [873] closed
+Sep 05 00:42 : client: [874] opened from local
+Sep 05 00:42 : client: [874] closed
+Sep 05 00:44 : client: [875] opened from local
+Sep 05 00:44 : client: [875] closed
+Sep 05 00:45 : client: [876] opened from local
+Sep 05 00:45 : client: [876] closed
+Sep 05 00:47 : client: [877] opened from local
+Sep 05 00:47 : client: [877] closed
+Sep 05 06:00 : zeroconf: No global port, disabling zeroconf
+Sep 05 06:00 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 05 06:00 : client: [0] opened from local
+Sep 05 06:00 : client: [0] closed
+Sep 05 06:01 : client: [1] opened from local
+Sep 05 06:01 : client: [1] closed
+Sep 05 06:03 : client: [2] opened from local
+Sep 05 06:03 : client: [2] closed
+Sep 05 06:05 : client: [3] opened from local
+Sep 05 06:05 : client: [3] closed
+Sep 05 06:06 : client: [4] opened from local
+Sep 05 06:06 : client: [4] closed
+Sep 05 06:08 : client: [5] opened from local
+Sep 05 06:08 : client: [5] closed
+Sep 05 06:10 : client: [6] opened from local
+Sep 05 06:10 : client: [6] closed
+Sep 05 06:11 : client: [7] opened from local
+Sep 05 06:11 : client: [7] closed
+Sep 05 06:13 : client: [8] opened from local
+Sep 05 06:13 : client: [8] closed
+Sep 05 06:15 : client: [9] opened from local
+Sep 05 06:15 : client: [9] closed
+Sep 05 09:53 : client: [10] opened from local
+Sep 05 09:53 : client: [10] closed
+Sep 05 10:26 : client: [11] opened from local
+Sep 05 10:26 : client: [11] closed
+Sep 05 10:28 : client: [12] opened from local
+Sep 05 10:28 : client: [12] closed
+Sep 05 10:29 : client: [13] opened from local
+Sep 05 10:29 : client: [13] closed
+Sep 05 10:31 : client: [14] opened from local
+Sep 05 10:31 : client: [14] closed
+Sep 05 10:33 : client: [15] opened from local
+Sep 05 10:33 : client: [15] closed
+Sep 05 10:34 : client: [16] opened from local
+Sep 05 10:34 : client: [16] closed
+Sep 05 10:36 : client: [17] opened from local
+Sep 05 10:36 : client: [17] closed
+Sep 05 10:38 : client: [18] opened from local
+Sep 05 10:38 : client: [18] closed
+Sep 05 10:39 : client: [19] opened from local
+Sep 05 10:39 : client: [19] closed
+Sep 05 10:41 : client: [20] opened from local
+Sep 05 10:41 : client: [20] closed
+Sep 05 10:43 : client: [21] opened from local
+Sep 05 10:43 : client: [21] closed
+Sep 05 10:44 : client: [22] opened from local
+Sep 05 10:44 : client: [22] closed
+Sep 05 10:46 : client: [23] opened from local
+Sep 05 10:46 : client: [23] closed
+Sep 05 10:48 : client: [24] opened from local
+Sep 05 10:48 : client: [24] closed
+Sep 05 10:49 : client: [25] opened from local
+Sep 05 10:49 : client: [25] closed
+Sep 05 11:05 : client: [26] opened from local
+Sep 05 11:05 : client: [26] closed
+Sep 05 13:15 : zeroconf: No global port, disabling zeroconf
+Sep 05 13:15 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 05 13:15 : client: [0] opened from local
+Sep 05 13:15 : client: [0] closed
+Sep 05 13:17 : client: [1] opened from local
+Sep 05 13:17 : client: [1] closed
+Sep 05 13:18 : client: [2] opened from local
+Sep 05 13:18 : client: [2] closed
+Sep 05 13:20 : client: [3] opened from local
+Sep 05 13:20 : client: [3] closed
+Sep 05 13:22 : client: [4] opened from local
+Sep 05 13:22 : client: [4] closed
+Sep 05 13:23 : client: [5] opened from local
+Sep 05 13:23 : client: [5] closed
+Sep 05 13:25 : client: [6] opened from local
+Sep 05 13:25 : client: [6] closed
+Sep 05 13:27 : client: [7] opened from local
+Sep 05 13:27 : client: [7] closed
+Sep 05 13:28 : client: [8] opened from local
+Sep 05 13:28 : client: [8] closed
+Sep 05 13:30 : client: [9] opened from local
+Sep 05 13:30 : client: [9] closed
+Sep 05 13:32 : client: [10] opened from local
+Sep 05 13:32 : client: [10] closed
+Sep 05 13:33 : client: [11] opened from local
+Sep 05 13:33 : client: [11] closed
+Sep 05 13:35 : client: [12] opened from local
+Sep 05 13:35 : client: [12] closed
+Sep 05 13:37 : client: [13] opened from local
+Sep 05 13:37 : client: [13] closed
+Sep 05 13:38 : client: [14] opened from local
+Sep 05 13:38 : client: [14] closed
+Sep 05 13:40 : client: [15] opened from local
+Sep 05 13:40 : client: [15] closed
+Sep 05 13:42 : client: [16] opened from local
+Sep 05 13:42 : client: [16] closed
+Sep 05 13:43 : client: [17] opened from local
+Sep 05 13:43 : client: [17] closed
+Sep 05 13:45 : client: [18] opened from local
+Sep 05 13:45 : client: [18] closed
+Sep 05 13:47 : client: [19] opened from local
+Sep 05 13:47 : client: [19] closed
+Sep 05 13:48 : client: [20] opened from local
+Sep 05 13:48 : client: [20] closed
+Sep 05 13:50 : client: [21] opened from local
+Sep 05 13:50 : client: [21] closed
+Sep 05 13:52 : client: [22] opened from local
+Sep 05 13:52 : client: [22] closed
+Sep 05 13:53 : client: [23] opened from local
+Sep 05 13:53 : client: [23] closed
+Sep 05 13:55 : client: [24] opened from local
+Sep 05 13:55 : client: [24] closed
+Sep 05 13:57 : client: [25] opened from local
+Sep 05 13:57 : client: [25] closed
+Sep 05 13:58 : client: [26] opened from local
+Sep 05 13:58 : client: [26] closed
+Sep 05 14:00 : client: [27] opened from local
+Sep 05 14:00 : client: [27] closed
+Sep 05 14:02 : client: [28] opened from local
+Sep 05 14:02 : client: [28] closed
+Sep 05 14:03 : client: [29] opened from local
+Sep 05 14:03 : client: [29] closed
+Sep 05 14:05 : client: [30] opened from local
+Sep 05 14:05 : client: [30] closed
+Sep 05 14:07 : client: [31] opened from local
+Sep 05 14:07 : client: [31] closed
+Sep 05 14:08 : client: [32] opened from local
+Sep 05 14:08 : client: [32] closed
+Sep 05 14:10 : client: [33] opened from local
+Sep 05 14:10 : client: [33] closed
+Sep 05 14:12 : client: [34] opened from local
+Sep 05 14:12 : client: [34] closed
+Sep 05 14:13 : client: [35] opened from local
+Sep 05 14:13 : client: [35] closed
+Sep 05 14:15 : client: [36] opened from local
+Sep 05 14:15 : client: [36] closed
+Sep 05 14:17 : client: [37] opened from local
+Sep 05 14:17 : client: [37] closed
+Sep 05 14:18 : client: [38] opened from local
+Sep 05 14:18 : client: [38] closed
+Sep 05 14:20 : client: [39] opened from local
+Sep 05 14:20 : client: [39] closed
+Sep 05 14:22 : client: [40] opened from local
+Sep 05 14:22 : client: [40] closed
+Sep 05 14:23 : client: [41] opened from local
+Sep 05 14:23 : client: [41] closed
+Sep 05 14:25 : client: [42] opened from local
+Sep 05 14:25 : client: [42] closed
+Sep 05 14:27 : client: [43] opened from local
+Sep 05 14:27 : client: [43] closed
+Sep 05 14:28 : client: [44] opened from local
+Sep 05 14:28 : client: [44] closed
+Sep 05 14:30 : client: [45] opened from local
+Sep 05 14:30 : client: [45] closed
+Sep 05 14:32 : client: [46] opened from local
+Sep 05 14:32 : client: [46] closed
+Sep 05 14:33 : client: [47] opened from local
+Sep 05 14:33 : client: [47] closed
+Sep 05 14:35 : client: [48] opened from local
+Sep 05 14:35 : client: [48] closed
+Sep 05 14:37 : client: [49] opened from local
+Sep 05 14:37 : client: [49] closed
+Sep 05 14:38 : client: [50] opened from local
+Sep 05 14:38 : client: [50] closed
+Sep 05 14:40 : client: [51] opened from local
+Sep 05 14:40 : client: [51] closed
+Sep 05 14:42 : client: [52] opened from local
+Sep 05 14:42 : client: [52] closed
+Sep 05 14:43 : client: [53] opened from local
+Sep 05 14:43 : client: [53] closed
+Sep 05 14:45 : client: [54] opened from local
+Sep 05 14:45 : client: [54] closed
+Sep 05 14:47 : client: [55] opened from local
+Sep 05 14:47 : client: [55] closed
+Sep 05 14:48 : client: [56] opened from local
+Sep 05 14:48 : client: [56] closed
+Sep 05 14:50 : client: [57] opened from local
+Sep 05 14:50 : client: [57] closed
+Sep 05 14:52 : client: [58] opened from local
+Sep 05 14:52 : client: [58] closed
+Sep 05 14:53 : client: [59] opened from local
+Sep 05 14:53 : client: [59] closed
+Sep 05 14:55 : client: [60] opened from local
+Sep 05 14:55 : client: [60] closed
+Sep 05 14:57 : client: [61] opened from local
+Sep 05 14:57 : client: [61] closed
+Sep 05 14:58 : client: [62] opened from local
+Sep 05 14:58 : client: [62] closed
+Sep 05 15:00 : client: [63] opened from local
+Sep 05 15:00 : client: [63] closed
+Sep 05 15:02 : client: [64] opened from local
+Sep 05 15:02 : client: [64] closed
+Sep 05 15:03 : client: [65] opened from local
+Sep 05 15:03 : client: [65] closed
+Sep 05 15:05 : client: [66] opened from local
+Sep 05 15:05 : client: [66] closed
+Sep 05 15:07 : client: [67] opened from local
+Sep 05 15:07 : client: [67] closed
+Sep 05 15:08 : client: [68] opened from local
+Sep 05 15:08 : client: [68] closed
+Sep 05 15:10 : client: [69] opened from local
+Sep 05 15:10 : client: [69] closed
+Sep 05 15:12 : client: [70] opened from local
+Sep 05 15:12 : client: [70] closed
+Sep 05 15:13 : client: [71] opened from local
+Sep 05 15:13 : client: [71] closed
+Sep 05 15:15 : client: [72] opened from local
+Sep 05 15:15 : client: [72] closed
+Sep 05 15:17 : client: [73] opened from local
+Sep 05 15:17 : client: [73] closed
+Sep 05 15:18 : client: [74] opened from local
+Sep 05 15:18 : client: [74] closed
+Sep 05 15:20 : client: [75] opened from local
+Sep 05 15:20 : client: [75] closed
+Sep 05 15:27 : client: [76] opened from local
+Sep 05 15:27 : client: [76] closed
+Sep 05 15:30 : client: [77] opened from local
+Sep 05 15:30 : client: [77] closed
+Sep 05 15:32 : client: [78] opened from local
+Sep 05 15:32 : client: [78] closed
+Sep 05 15:34 : client: [79] opened from local
+Sep 05 15:34 : client: [79] closed
+Sep 05 15:40 : client: [80] opened from local
+Sep 05 15:40 : client: [80] closed
+Sep 05 15:41 : client: [81] opened from local
+Sep 05 15:41 : client: [81] closed
+Sep 05 15:43 : client: [82] opened from local
+Sep 05 15:43 : client: [82] closed
+Sep 05 15:45 : client: [83] opened from local
+Sep 05 15:45 : client: [83] closed
+Sep 05 15:46 : client: [84] opened from local
+Sep 05 15:46 : client: [84] closed
+Sep 05 15:48 : client: [85] opened from local
+Sep 05 15:48 : client: [85] closed
+Sep 05 15:50 : client: [86] opened from local
+Sep 05 15:50 : client: [86] closed
+Sep 05 15:51 : client: [87] opened from local
+Sep 05 15:51 : client: [87] closed
+Sep 05 15:53 : client: [88] opened from local
+Sep 05 15:53 : client: [88] closed
+Sep 05 15:55 : client: [89] opened from local
+Sep 05 15:55 : client: [89] closed
+Sep 05 15:56 : client: [90] opened from local
+Sep 05 15:56 : client: [90] closed
+Sep 05 15:58 : client: [91] opened from local
+Sep 05 15:58 : client: [91] closed
+Sep 05 16:00 : client: [92] opened from local
+Sep 05 16:00 : client: [92] closed
+Sep 05 16:01 : client: [93] opened from local
+Sep 05 16:01 : client: [93] closed
+Sep 05 16:03 : client: [94] opened from local
+Sep 05 16:03 : client: [94] closed
+Sep 05 16:48 : client: [95] opened from local
+Sep 05 16:48 : client: [95] closed
+Sep 05 16:50 : client: [96] opened from local
+Sep 05 16:50 : client: [96] closed
+Sep 05 16:52 : client: [97] opened from local
+Sep 05 16:52 : client: [97] closed
+Sep 05 16:57 : client: [98] opened from local
+Sep 05 16:57 : client: [98] closed
+Sep 05 17:02 : client: [99] opened from local
+Sep 05 17:02 : client: [99] closed
+Sep 05 17:04 : client: [100] opened from local
+Sep 05 17:04 : client: [100] closed
+Sep 05 17:05 : client: [101] opened from local
+Sep 05 17:05 : client: [101] closed
+Sep 05 17:07 : client: [102] opened from local
+Sep 05 17:07 : client: [102] closed
+Sep 05 17:09 : client: [103] opened from local
+Sep 05 17:09 : client: [103] closed
+Sep 05 17:10 : client: [104] opened from local
+Sep 05 17:10 : client: [104] closed
+Sep 05 17:12 : client: [105] opened from local
+Sep 05 17:12 : client: [105] closed
+Sep 05 17:14 : client: [106] opened from local
+Sep 05 17:14 : client: [106] closed
+Sep 05 17:15 : client: [107] opened from local
+Sep 05 17:15 : client: [107] closed
+Sep 05 17:17 : client: [108] opened from local
+Sep 05 17:17 : client: [108] closed
+Sep 05 17:19 : client: [109] opened from local
+Sep 05 17:19 : client: [109] closed
+Sep 05 17:20 : client: [110] opened from local
+Sep 05 17:20 : client: [110] closed
+Sep 05 17:22 : client: [111] opened from local
+Sep 05 17:22 : client: [111] closed
+Sep 05 17:24 : client: [112] opened from local
+Sep 05 17:24 : client: [112] closed
+Sep 05 17:25 : client: [113] opened from local
+Sep 05 17:25 : client: [113] closed
+Sep 05 17:27 : client: [114] opened from local
+Sep 05 17:27 : client: [114] closed
+Sep 05 17:29 : client: [115] opened from local
+Sep 05 17:29 : client: [115] closed
+Sep 05 17:30 : client: [116] opened from local
+Sep 05 17:30 : client: [116] closed
+Sep 05 17:32 : client: [117] opened from local
+Sep 05 17:32 : client: [117] closed
+Sep 05 17:34 : client: [118] opened from local
+Sep 05 17:34 : client: [118] closed
+Sep 05 17:35 : client: [119] opened from local
+Sep 05 17:35 : client: [119] closed
+Sep 05 17:37 : client: [120] opened from local
+Sep 05 17:37 : client: [120] closed
+Sep 05 17:39 : client: [121] opened from local
+Sep 05 17:39 : client: [121] closed
+Sep 05 17:40 : client: [122] opened from local
+Sep 05 17:40 : client: [122] closed
+Sep 05 17:42 : client: [123] opened from local
+Sep 05 17:42 : client: [123] closed
+Sep 05 17:44 : client: [124] opened from local
+Sep 05 17:44 : client: [124] closed
+Sep 05 17:45 : client: [125] opened from local
+Sep 05 17:45 : client: [125] closed
+Sep 05 17:47 : client: [126] opened from local
+Sep 05 17:47 : client: [126] closed
+Sep 05 17:49 : client: [127] opened from local
+Sep 05 17:49 : client: [127] closed
+Sep 05 17:50 : client: [128] opened from local
+Sep 05 17:50 : client: [128] closed
+Sep 05 17:52 : client: [129] opened from local
+Sep 05 17:52 : client: [129] closed
+Sep 05 17:54 : client: [130] opened from local
+Sep 05 17:54 : client: [130] closed
+Sep 05 17:55 : client: [131] opened from local
+Sep 05 17:55 : client: [131] closed
+Sep 05 17:57 : client: [132] opened from local
+Sep 05 17:57 : client: [132] closed
+Sep 05 17:59 : client: [133] opened from local
+Sep 05 17:59 : client: [133] closed
+Sep 05 18:00 : client: [134] opened from local
+Sep 05 18:00 : client: [134] closed
+Sep 05 18:02 : client: [135] opened from local
+Sep 05 18:02 : client: [135] closed
+Sep 05 18:04 : client: [136] opened from local
+Sep 05 18:04 : client: [136] closed
+Sep 05 18:05 : client: [137] opened from local
+Sep 05 18:05 : client: [137] closed
+Sep 05 18:07 : client: [138] opened from local
+Sep 05 18:07 : client: [138] closed
+Sep 05 18:09 : client: [139] opened from local
+Sep 05 18:09 : client: [139] closed
+Sep 05 18:10 : client: [140] opened from local
+Sep 05 18:10 : client: [140] closed
+Sep 05 18:12 : client: [141] opened from local
+Sep 05 18:12 : client: [141] closed
+Sep 05 18:14 : client: [142] opened from local
+Sep 05 18:14 : client: [142] closed
+Sep 05 18:15 : client: [143] opened from local
+Sep 05 18:15 : client: [143] closed
+Sep 05 18:17 : client: [144] opened from local
+Sep 05 18:17 : client: [144] closed
+Sep 05 18:19 : client: [145] opened from local
+Sep 05 18:19 : client: [145] closed
+Sep 05 18:20 : client: [146] opened from local
+Sep 05 18:20 : client: [146] closed
+Sep 05 18:22 : client: [147] opened from local
+Sep 05 18:22 : client: [147] closed
+Sep 05 18:24 : client: [148] opened from local
+Sep 05 18:24 : client: [148] closed
+Sep 05 18:25 : client: [149] opened from local
+Sep 05 18:25 : client: [149] closed
+Sep 05 18:27 : client: [150] opened from local
+Sep 05 18:27 : client: [150] closed
+Sep 05 18:29 : client: [151] opened from local
+Sep 05 18:29 : client: [151] closed
+Sep 05 18:30 : client: [152] opened from local
+Sep 05 18:30 : client: [152] closed
+Sep 05 18:32 : client: [153] opened from local
+Sep 05 18:32 : client: [153] closed
+Sep 05 18:34 : client: [154] opened from local
+Sep 05 18:34 : client: [154] closed
+Sep 05 18:35 : client: [155] opened from local
+Sep 05 18:35 : client: [155] closed
+Sep 05 18:37 : client: [156] opened from local
+Sep 05 18:37 : client: [156] closed
+Sep 05 18:39 : client: [157] opened from local
+Sep 05 18:39 : client: [157] closed
+Sep 05 18:40 : client: [158] opened from local
+Sep 05 18:40 : client: [158] closed
+Sep 05 18:42 : client: [159] opened from local
+Sep 05 18:42 : client: [159] closed
+Sep 05 18:44 : client: [160] opened from local
+Sep 05 18:44 : client: [160] closed
+Sep 05 19:49 : client: [161] opened from local
+Sep 05 19:49 : client: [161] closed
+Sep 05 19:50 : client: [162] opened from local
+Sep 05 19:50 : client: [162] closed
+Sep 05 19:52 : client: [163] opened from local
+Sep 05 19:52 : client: [163] closed
+Sep 05 19:58 : client: [164] opened from local
+Sep 05 19:58 : client: [164] closed
+Sep 05 19:59 : client: [165] opened from local
+Sep 05 19:59 : client: [165] closed
+Sep 05 20:01 : client: [166] opened from local
+Sep 05 20:01 : client: [166] closed
+Sep 05 20:03 : client: [167] opened from local
+Sep 05 20:03 : client: [167] closed
+Sep 05 20:04 : client: [168] opened from local
+Sep 05 20:04 : client: [168] closed
+Sep 05 20:06 : client: [169] opened from local
+Sep 05 20:06 : client: [169] closed
+Sep 05 20:08 : client: [170] opened from local
+Sep 05 20:08 : client: [170] closed
+Sep 05 20:09 : client: [171] opened from local
+Sep 05 20:09 : client: [171] closed
+Sep 05 20:11 : client: [172] opened from local
+Sep 05 20:11 : client: [172] closed
+Sep 05 20:13 : client: [173] opened from local
+Sep 05 20:13 : client: [173] closed
+Sep 05 20:14 : client: [174] opened from local
+Sep 05 20:14 : client: [174] closed
+Sep 05 20:16 : client: [175] opened from local
+Sep 05 20:16 : client: [175] closed
+Sep 05 20:18 : client: [176] opened from local
+Sep 05 20:18 : client: [176] closed
+Sep 05 20:19 : client: [177] opened from local
+Sep 05 20:19 : client: [177] closed
+Sep 05 20:21 : client: [178] opened from local
+Sep 05 20:21 : client: [178] closed
+Sep 05 20:23 : client: [179] opened from local
+Sep 05 20:23 : client: [179] closed
+Sep 05 20:24 : client: [180] opened from local
+Sep 05 20:24 : client: [180] closed
+Sep 05 20:26 : client: [181] opened from local
+Sep 05 20:26 : client: [181] closed
+Sep 05 20:28 : client: [182] opened from local
+Sep 05 20:28 : client: [182] closed
+Sep 05 20:29 : client: [183] opened from local
+Sep 05 20:29 : client: [183] closed
+Sep 05 20:31 : client: [184] opened from local
+Sep 05 20:31 : client: [184] closed
+Sep 05 20:33 : client: [185] opened from local
+Sep 05 20:33 : client: [185] closed
+Sep 05 20:34 : client: [186] opened from local
+Sep 05 20:34 : client: [186] closed
+Sep 05 20:36 : client: [187] opened from local
+Sep 05 20:36 : client: [187] closed
+Sep 05 20:38 : client: [188] opened from local
+Sep 05 20:38 : client: [188] closed
+Sep 05 20:39 : client: [189] opened from local
+Sep 05 20:39 : client: [189] closed
+Sep 05 20:41 : client: [190] opened from local
+Sep 05 20:41 : client: [190] closed
+Sep 05 20:43 : client: [191] opened from local
+Sep 05 20:43 : client: [191] closed
+Sep 05 20:45 : client: [192] opened from local
+Sep 05 20:45 : client: [192] closed
+Sep 05 20:47 : client: [193] opened from local
+Sep 05 20:47 : client: [193] closed
+Sep 05 20:48 : client: [194] opened from local
+Sep 05 20:48 : client: [194] closed
+Sep 05 20:50 : client: [195] opened from local
+Sep 05 20:50 : client: [195] closed
+Sep 05 20:52 : client: [196] opened from local
+Sep 05 20:52 : client: [196] closed
+Sep 05 20:53 : client: [197] opened from local
+Sep 05 20:53 : client: [197] closed
+Sep 05 21:27 : client: [198] opened from local
+Sep 05 21:27 : client: [198] closed
+Sep 05 21:28 : client: [199] opened from local
+Sep 05 21:28 : client: [199] closed
+Sep 05 22:46 : client: [200] opened from local
+Sep 05 22:46 : client: [200] closed
+Sep 05 22:48 : client: [201] opened from local
+Sep 05 22:48 : client: [201] closed
+Sep 05 22:50 : client: [202] opened from local
+Sep 05 22:50 : client: [202] closed
+Sep 05 22:53 : client: [203] opened from local
+Sep 05 22:53 : client: [203] closed
+Sep 05 22:55 : client: [204] opened from local
+Sep 05 22:55 : client: [204] closed
+Sep 05 22:57 : client: [205] opened from local
+Sep 05 22:57 : client: [205] closed
+Sep 05 22:58 : client: [206] opened from local
+Sep 05 22:58 : client: [206] closed
+Sep 05 23:00 : client: [207] opened from local
+Sep 05 23:00 : client: [207] closed
+Sep 05 23:02 : client: [208] opened from local
+Sep 05 23:02 : client: [208] closed
+Sep 05 23:03 : client: [209] opened from local
+Sep 05 23:03 : client: [209] closed
+Sep 05 23:05 : client: [210] opened from local
+Sep 05 23:05 : client: [210] closed
+Sep 05 23:07 : client: [211] opened from local
+Sep 05 23:07 : client: [211] closed
+Sep 05 23:08 : client: [212] opened from local
+Sep 05 23:08 : client: [212] closed
+Sep 05 23:10 : client: [213] opened from local
+Sep 05 23:10 : client: [213] closed
+Sep 05 23:12 : client: [214] opened from local
+Sep 05 23:12 : client: [214] closed
+Sep 05 23:13 : client: [215] opened from local
+Sep 05 23:13 : client: [215] closed
+Sep 05 23:15 : client: [216] opened from local
+Sep 05 23:15 : client: [216] closed
+Sep 05 23:17 : client: [217] opened from local
+Sep 05 23:17 : client: [217] closed
+Sep 05 23:18 : client: [218] opened from local
+Sep 05 23:18 : client: [218] closed
+Sep 05 23:20 : client: [219] opened from local
+Sep 05 23:20 : client: [219] closed
+Sep 05 23:22 : client: [220] opened from local
+Sep 05 23:22 : client: [220] closed
+Sep 05 23:23 : client: [221] opened from local
+Sep 05 23:23 : client: [221] closed
+Sep 05 23:25 : client: [222] opened from local
+Sep 05 23:25 : client: [222] closed
+Sep 05 23:27 : client: [223] opened from local
+Sep 05 23:27 : client: [223] closed
+Sep 05 23:28 : client: [224] opened from local
+Sep 05 23:28 : client: [224] closed
+Sep 05 23:30 : client: [225] opened from local
+Sep 05 23:30 : client: [225] closed
+Sep 05 23:32 : client: [226] opened from local
+Sep 05 23:32 : client: [226] closed
+Sep 05 23:33 : client: [227] opened from local
+Sep 05 23:33 : client: [227] closed
+Sep 05 23:35 : client: [228] opened from local
+Sep 05 23:35 : client: [228] closed
+Sep 05 23:37 : client: [229] opened from local
+Sep 05 23:37 : client: [229] closed
+Sep 05 23:38 : client: [230] opened from local
+Sep 05 23:38 : client: [230] closed
+Sep 05 23:40 : client: [231] opened from local
+Sep 05 23:40 : client: [231] closed
+Sep 05 23:42 : client: [232] opened from local
+Sep 05 23:42 : client: [232] closed
+Sep 05 23:43 : client: [233] opened from local
+Sep 05 23:43 : client: [233] closed
+Sep 05 23:52 : client: [234] opened from local
+Sep 05 23:52 : client: [234] closed
+Sep 05 23:54 : client: [235] opened from local
+Sep 05 23:54 : client: [235] closed
+Sep 05 23:55 : client: [236] opened from local
+Sep 05 23:55 : client: [236] closed
+Sep 05 23:57 : client: [237] opened from local
+Sep 05 23:57 : client: [237] closed
+Sep 05 23:59 : client: [238] opened from local
+Sep 05 23:59 : client: [238] closed
+Sep 06 00:01 : client: [239] opened from local
+Sep 06 00:01 : client: [239] closed
+Sep 06 00:02 : client: [240] opened from local
+Sep 06 00:02 : client: [240] closed
+Sep 06 00:04 : client: [241] opened from local
+Sep 06 00:04 : client: [241] closed
+Sep 06 00:06 : client: [242] opened from local
+Sep 06 00:06 : client: [242] closed
+Sep 06 00:07 : client: [243] opened from local
+Sep 06 00:07 : client: [243] closed
+Sep 06 00:09 : client: [244] opened from local
+Sep 06 00:09 : client: [244] closed
+Sep 06 00:11 : client: [245] opened from local
+Sep 06 00:11 : client: [245] closed
+Sep 06 00:12 : client: [246] opened from local
+Sep 06 00:12 : client: [246] closed
+Sep 06 00:14 : client: [247] opened from local
+Sep 06 00:14 : client: [247] closed
+Sep 06 00:16 : client: [248] opened from local
+Sep 06 00:16 : client: [248] closed
+Sep 06 00:17 : client: [249] opened from local
+Sep 06 00:17 : client: [249] closed
+Sep 06 00:19 : client: [250] opened from local
+Sep 06 00:19 : client: [250] closed
+Sep 06 00:21 : client: [251] opened from local
+Sep 06 00:21 : client: [251] closed
+Sep 06 00:22 : client: [252] opened from local
+Sep 06 00:22 : client: [252] closed
+Sep 06 00:24 : client: [253] opened from local
+Sep 06 00:24 : client: [253] closed
+Sep 06 00:26 : client: [254] opened from local
+Sep 06 00:26 : client: [254] closed
+Sep 06 00:27 : client: [255] opened from local
+Sep 06 00:27 : client: [255] closed
+Sep 06 00:29 : client: [256] opened from local
+Sep 06 00:29 : client: [256] closed
+Sep 06 00:31 : client: [257] opened from local
+Sep 06 00:31 : client: [257] closed
+Sep 06 00:32 : client: [258] opened from local
+Sep 06 00:32 : client: [258] closed
+Sep 06 00:34 : client: [259] opened from local
+Sep 06 00:34 : client: [259] closed
+Sep 06 00:36 : client: [260] opened from local
+Sep 06 00:36 : client: [260] closed
+Sep 06 00:37 : client: [261] opened from local
+Sep 06 00:37 : client: [261] closed
+Sep 06 00:39 : client: [262] opened from local
+Sep 06 00:39 : client: [262] closed
+Sep 06 00:41 : client: [263] opened from local
+Sep 06 00:41 : client: [263] closed
+Sep 06 00:42 : client: [264] opened from local
+Sep 06 00:42 : client: [264] closed
+Sep 06 00:44 : client: [265] opened from local
+Sep 06 00:44 : client: [265] closed
+Sep 06 00:46 : client: [266] opened from local
+Sep 06 00:46 : client: [266] closed
+Sep 06 00:49 : client: [267] opened from local
+Sep 06 00:49 : client: [267] closed
+Sep 06 00:50 : client: [268] opened from local
+Sep 06 00:50 : client: [268] closed
+Sep 06 00:52 : client: [269] opened from local
+Sep 06 00:52 : client: [269] closed
+Sep 06 00:54 : client: [270] opened from local
+Sep 06 00:54 : client: [270] closed
+Sep 06 00:55 : client: [271] opened from local
+Sep 06 00:55 : client: [271] closed
+Sep 06 00:57 : client: [272] opened from local
+Sep 06 00:57 : client: [272] closed
+Sep 06 00:59 : client: [273] opened from local
+Sep 06 00:59 : client: [273] closed
+Sep 06 01:00 : client: [274] opened from local
+Sep 06 01:00 : client: [274] closed
+Sep 06 01:02 : client: [275] opened from local
+Sep 06 01:02 : client: [275] closed
+Sep 06 01:04 : zeroconf: No global port, disabling zeroconf
+Sep 06 01:04 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:04 : client: [0] opened from local
+Sep 06 01:04 : client: [0] closed
+Sep 06 01:05 : client: [1] opened from local
+Sep 06 01:05 : client: [1] closed
+Sep 06 01:07 : client: [2] opened from local
+Sep 06 01:07 : client: [2] closed
+Sep 06 01:09 : client: [3] opened from local
+Sep 06 01:09 : client: [3] closed
+Sep 06 01:09 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:10 : exception: Failed to commit /home/tvivek/.config/mpd/state: File exists
+Sep 06 01:10 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:10 : zeroconf: No global port, disabling zeroconf
+Sep 06 01:10 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:10 : client: [0] opened from local
+Sep 06 01:10 : client: [0] closed
+Sep 06 01:12 : client: [1] opened from local
+Sep 06 01:12 : client: [1] closed
+Sep 06 01:12 : exception: Failed to commit /home/tvivek/.config/mpd/state: File exists
+Sep 06 01:12 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:14 : zeroconf: No global port, disabling zeroconf
+Sep 06 01:14 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:14 : client: [0] opened from local
+Sep 06 01:14 : client: [0] closed
+Sep 06 01:15 : client: [1] opened from local
+Sep 06 01:15 : client: [1] closed
+Sep 06 01:16 : client: [2] opened from [::1]:57250
+Sep 06 01:17 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 06 01:17 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 06 01:17 : exception: Failed to access /home/tivek/Music: No such file or directory
+Sep 06 01:17 : client: [3] opened from local
+Sep 06 01:17 : client: [3] closed
+Sep 06 01:18 : exception: Failed to commit /home/tvivek/.config/mpd/state: File exists
+Sep 06 01:18 : zeroconf: No global port, disabling zeroconf
+Sep 06 01:18 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:18 : client: [0] opened from [::1]:57254
+Sep 06 01:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 01:18 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 06 01:19 : client: [1] opened from local
+Sep 06 01:19 : client: [1] closed
+Sep 06 01:20 : client: [2] opened from local
+Sep 06 01:20 : client: [2] closed
+Sep 06 01:20 : exception: Failed to commit /home/tvivek/.config/mpd/state: File exists
+Sep 10 10:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 10:17 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 10 10:17 : config: option 'options' on line 210 was not recognized
+Sep 12 00:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 00:29 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 12 00:29 : config: option 'options' on line 210 was not recognized
+Sep 14 08:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 08:27 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 14 08:27 : config: option 'options' on line 210 was not recognized
+Sep 13 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:02 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:02 : config: option 'options' on line 210 was not recognized
+Sep 13 11:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:11 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:11 : config: option 'options' on line 210 was not recognized
+Sep 13 11:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:12 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:12 : config: option 'options' on line 210 was not recognized
+Sep 13 11:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:20 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:20 : config: option 'options' on line 210 was not recognized
+Sep 13 11:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:24 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:24 : config: option 'options' on line 210 was not recognized
+Sep 13 11:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:25 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:25 : config: option 'options' on line 210 was not recognized
+Sep 13 11:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:27 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:27 : config: option 'options' on line 210 was not recognized
+Sep 13 11:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:40 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:42 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:52 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:55 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 11:58 : avahi: Initializing interface
+Sep 13 11:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:58 : avahi: Client changed to state 101
+Sep 13 11:58 : avahi: Client is CONNECTING
+Sep 13 11:58 : state_file: Loading state file /home/tvivek/.config/mpd/state
+Sep 13 11:58 : inotify: initializing inotify
+Sep 13 11:58 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:02 : state_file: Saving state file /home/tvivek/.config/mpd/state
+Sep 13 12:02 : avahi: Shutting down interface
+Sep 13 12:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 12:02 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 12:03 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 12:05 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:06 : avahi: Initializing interface
+Sep 13 12:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 12:06 : avahi: Client changed to state 101
+Sep 13 12:06 : avahi: Client is CONNECTING
+Sep 13 12:06 : state_file: Loading state file /home/tvivek/.config/mpd/state
+Sep 13 12:06 : inotify: initializing inotify
+Sep 13 12:06 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:06 : state_file: Saving state file /home/tvivek/.config/mpd/state
+Sep 13 12:06 : avahi: Shutting down interface
+Sep 13 12:08 : avahi: Initializing interface
+Sep 13 12:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 12:08 : avahi: Client changed to state 101
+Sep 13 12:08 : avahi: Client is CONNECTING
+Sep 13 12:08 : state_file: Loading state file /home/tvivek/.config/mpd/state
+Sep 13 12:08 : inotify: initializing inotify
+Sep 13 12:08 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:09 : state_file: Saving state file /home/tvivek/.config/mpd/state
+Sep 13 12:09 : avahi: Shutting down interface
+Sep 13 12:14 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:45 : avahi: Initializing interface
+Sep 13 12:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 12:45 : avahi: Client changed to state 101
+Sep 13 12:45 : avahi: Client is CONNECTING
+Sep 13 12:45 : state_file: Loading state file /home/tvivek/.config/mpd/state
+Sep 13 12:45 : inotify: initializing inotify
+Sep 13 12:45 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 12:53 : signal_handlers: got SIGHUP, reopening log files
+Sep 13 12:53 : log: Cycling log files
+Sep 13 12:53 : log: Done cycling log files
+Sep 13 12:53 : signal_handlers: got SIGHUP, reopening log files
+Sep 13 12:53 : log: Cycling log files
+Sep 13 12:53 : log: Done cycling log files
+Sep 13 16:57 : state_file: Saving state file /home/tvivek/.config/mpd/state
+Sep 13 16:57 : avahi: Shutting down interface
+Sep 13 16:57 : avahi: Initializing interface
+Sep 13 16:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 16:57 : avahi: Client changed to state 101
+Sep 13 16:57 : avahi: Client is CONNECTING
+Sep 13 16:57 : state_file: Loading state file /home/tvivek/.config/mpd/state
+Sep 13 16:57 : inotify: initializing inotify
+Sep 13 16:57 : exception: inotify_add_watch() has failed: No such file or directory
+Sep 13 16:57 : state_file: Saving state file /home/tvivek/.config/mpd/state
+Sep 13 16:57 : avahi: Shutting down interface
+Sep 13 16:57 : exception: inotify_add_watch() has failed: No such file or directory
