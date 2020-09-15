@@ -9,6 +9,26 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
+set_from_resource $black1 i3wm.color0 "#282a2e"
+set_from_resource $black2 i3wm.color8 "#373b41"
+set_from_resource $red1 i3wm.color1  "#000000"
+set_from_resource $red2 i3wm.color9 "#000000"
+set_from_resource $green1 i3wm.color2 "#000000"
+set_from_resource $green2 i3wm.color10 "#000000"
+set_from_resource $yellow1 i3wm.color3 "#000000"
+set_from_resource $yellow2 i3wm.color11 "#000000"
+set_from_resource $blue1 i3wm.color4 "#000000"
+set_from_resource $blue2 i3wm.color12 "#000000"
+set_from_resource $magenta1 i3wm.color5 "#000000"
+set_from_resource $magenta2 i3wm.color13 "#000000"
+set_from_resource $cyan1 i3wm.color6 "#000000"
+set_from_resource $cyan2 i3wm.color14 "#000000"
+set_from_resource $white1 i3wm.color7 "#000000"
+set_from_resource $white2 i3wm.color15 "#000000"
+set_from_resource $fg_color i3wm.foreground "#ffffff"
+set_from_resource $bg_color i3wm.background "#000000"
+set_from_resource $crsr_color i3wm.cursorColor "#000000"
+
 set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -194,10 +214,11 @@ i3bar_command i3bar -t
     separator #c31d1d
     background #00000000
     statusline #696969
-    focused_workspace #141414 #FFFFFF #000000
-    active_workspace #141414 #141414 #00b0ef
-    inactive_workspace #141414 #141414 #7d7d7d
-    urgent_workspace #ad160b #141414 #ad160b
+#   workspace_name	border_color	bg_color	fg_color
+    focused_workspace 	$black2		$black1		$fg_color
+    active_workspace 	$black1		$black2		$yellow2
+    inactive_workspace	$black1		$bg_color	$magenta1
+    urgent_workspace 	$red2		$red1		$fg_color
   }
 }
 
@@ -236,37 +257,65 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec xinput set-prop 12 277 1
 exec xinput set-prop 12 297 0.4
 
-set_from_resource $focused.color.border i3-wm.client.focused.color.border "#7A868A"
-set_from_resource $focused.color.background i3-wm.client.focused.color.background "#7A868A"
-set_from_resource $focused.color.text i3-wm.client.focused.color.text "#000000"
-set_from_resource $focused.color.indicator i3-wm.client.focused.color.indicator "#7A868A"
-set_from_resource $focused.color.child_border i3-wm.client.focused.color.child_border
+#set_from_resource $focused.color.border i3-wm.client.focused.color.border "#7A868A"
+#set_from_resource $focused.color.background i3-wm.client.focused.color.background "#7A868A"
+#set_from_resource $focused.color.text i3-wm.client.focused.color.text "#000000"
+#set_from_resource $focused.color.indicator i3-wm.client.focused.color.indicator "#7A868A"
+#set_from_resource $focused.color.child_border i3-wm.client.focused.color.child_border
+#
+#set_from_resource $focused_inactive.color.border i3-wm.client.focused_inactive.color.border "#000000"
+#set_from_resource $focused_inactive.color.background i3-wm.client.focused_inactive.color.background "#000000"
+#set_from_resource $focused_inactive.color.text i3-wm.client.focused_inactive.color.text "#839496"
+#set_from_resource $focused_inactive.color.indicator i3-wm.client.focused_inactive.color.indicator "#073642"
+#set_from_resource $focused_inactive.color.child_border i3-wm.client.focused_inactive.color.child_border 
+#
+#set_from_resource $unfocused.color.border i3-wm.client.unfocused.color.border "#d3d3d3"
+#set_from_resource $unfocused.color.background i3-wm.client.unfocused.color.background "#d3d3d3"
+#set_from_resource $unfocused.color.text i3-wm.client.unfocused.color.text "#839496"
+#set_from_resource $unfocused.color.indicator i3-wm.client.unfocused.color.indicator "#073642"
+#set_from_resource $unfocused.color.child_border i3-wm.client.unfocused.color.child_border
+#
+#set_from_resource $urgent.color.border i3-wm.client.urgent.color.border "#002b36"
+#set_from_resource $urgent.color.background i3-wm.client.urgent.color.background "#dc322f"
+#set_from_resource $urgent.color.text i3-wm.client.urgent.color.text "#fdf6e3"
+#set_from_resource $urgent.color.indicator i3-wm.client.urgent.color.indicator "#002b36"
+#set_from_resource $urgent.color.child_border i3-wm.client.urgent.color.child_border
 
-set_from_resource $focused_inactive.color.border i3-wm.client.focused_inactive.color.border "#000000"
-set_from_resource $focused_inactive.color.background i3-wm.client.focused_inactive.color.background "#000000"
-set_from_resource $focused_inactive.color.text i3-wm.client.focused_inactive.color.text "#839496"
-set_from_resource $focused_inactive.color.indicator i3-wm.client.focused_inactive.color.indicator "#073642"
-set_from_resource $focused_inactive.color.child_border i3-wm.client.focused_inactive.color.child_border 
+#set_from_resource $black1 i3wm.color0 "#282a2e"
+#set_from_resource $black2 i3wm.color8 "#373b41"
+#set_from_resource $red1 i3wm.color1  "#000000"
+#set_from_resource $red2 i3wm.color9 "#000000"
+#set_from_resource $green1 i3wm.color2 "#000000"
+#set_from_resource $green2 i3wm.color10 "#000000"
+#set_from_resource $yellow1 i3wm.color3 "#000000"
+#set_from_resource $yellow2 i3wm.color11 "#000000"
+#set_from_resource $blue1 i3wm.color4 "#000000"
+#set_from_resource $blue2 i3wm.color12 "#000000"
+#set_from_resource $magenta1 i3wm.color5 "#000000"
+#set_from_resource $magenta2 i3wm.color13 "#000000"
+#set_from_resource $cyan1 i3wm.color6 "#000000"
+#set_from_resource $cyan2 i3wm.color14 "#000000"
+#set_from_resource $white1 i3wm.color7 "#000000"
+#set_from_resource $white2 i3wm.color15 "#000000"
+#set_from_resource $fg_color i3wm.foreground "#ffffff"
+#set_from_resource $bg_color i3wm.background "#000000"
+#set_from_resource $crsr_color i3wm.cursorColor "#000000"
 
-set_from_resource $unfocused.color.border i3-wm.client.unfocused.color.border "#d3d3d3"
-set_from_resource $unfocused.color.background i3-wm.client.unfocused.color.background "#d3d3d3"
-set_from_resource $unfocused.color.text i3-wm.client.unfocused.color.text "#839496"
-set_from_resource $unfocused.color.indicator i3-wm.client.unfocused.color.indicator "#073642"
-set_from_resource $unfocused.color.child_border i3-wm.client.unfocused.color.child_border
+## Window Border color
+## class                 border                             background                         text                               indicator                          child_border
+#client.focused          $focused.color.border              #ffffff $focused.color.text                $focused.color.indicator           $focused.color.child_border
+#client.focused_inactive $focused_inactive.color.border     #000000 $focused_inactive.color.text       $focused_inactive.color.indicator  $focused_inactive.color.child_border
+#client.unfocused        $unfocused.color.border            $unfocused.color.background        $unfocused.color.text              $unfocused.color.indicator         $unfocused.color.child_border
+#client.urgent           $urgent.color.border               $urgent.color.background           $urgent.color.text                 $urgent.color.indicator            $urgent.color.child_border
+#
 
-set_from_resource $urgent.color.border i3-wm.client.urgent.color.border "#002b36"
-set_from_resource $urgent.color.background i3-wm.client.urgent.color.background "#dc322f"
-set_from_resource $urgent.color.text i3-wm.client.urgent.color.text "#fdf6e3"
-set_from_resource $urgent.color.indicator i3-wm.client.urgent.color.indicator "#002b36"
-set_from_resource $urgent.color.child_border i3-wm.client.urgent.color.child_border
-
-
-# Window Border color
-# class                 border                             background                         text                               indicator                          child_border
-client.focused          $focused.color.border              #ffffff $focused.color.text                $focused.color.indicator           $focused.color.child_border
-client.focused_inactive $focused_inactive.color.border     #000000 $focused_inactive.color.text       $focused_inactive.color.indicator  $focused_inactive.color.child_border
-client.unfocused        $unfocused.color.border            $unfocused.color.background        $unfocused.color.text              $unfocused.color.indicator         $unfocused.color.child_border
-client.urgent           $urgent.color.border               $urgent.color.background           $urgent.color.text                 $urgent.color.indicator            $urgent.color.child_border
+#Window Border color
+#
+##class				border		background		text			indicator			child_border
+client.focused			$white2		$bg_color		$fg_color		$yellow2			$black1
+client.focused_inactive		$white1 	$black2			$fg_color		$yellow1			$black2
+client.unfocused		$black1		$black2			$fg_color		$yellow1			$black2
+client.urgent			$red1		$red2			$red2			$cyan2				$black2
 
 
 #compton configuration
@@ -296,3 +345,12 @@ exec --no-startup-id i3-msg 'workspace $ws3; exec urxvt'
 #pop up during full screen
 
 popup_during_fullscreen smart
+
+# FLOATING WINDOWS
+#for_window [class="^.*"] floating enable
+for_window [class="^python*"] floating enable
+for_window [class="^nexus*"] floating enable
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [title="Preferences$"] floating enable
+
