@@ -58,7 +58,7 @@ bindsym $mod+Shift+q kill
 # start dmenu (a program launcher)
 bindsym $mod+z exec dmenu_run -i -p '¯\(°_o)/¯' -nb '#7A868A' -nf '#000000' -sb '#696969' -sf '#000000' -fn 'Ubuntu-13'
 bindsym $mod+d exec rofi -combi-modi window#drun#ssh -theme solarized -font "hack 10" -show combi
-bindsym --release $mod+y exec scrot -s '/tmp/%F_%T_$wx$h.png' -e 'xclip -selection clipboard -target image/png -i $f'
+bindsym --release $mod+y exec scrot -sf '/tmp/%F_%T_$wx$h.png' -e 'xclip -selection clipboard -target image/png -i $f'
 #bindsym --release $mod+y exec scrot -s '/tmp/%F_%T_$wx$h.png'
 
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -136,10 +136,10 @@ bindsym $mod+a focus parent
 #set $ws2 ""
 #set $ws3 ""
 #set $ws4 ""
-set $ws1 "1-Browser"
-set $ws2 "2-Anki"
-set $ws3 "3-Reader"
-set $ws4 "4-Misc"
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
 set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
@@ -222,9 +222,9 @@ i3bar_command i3bar -t
     background #00000000
     statusline #696969
 #   workspace_name	border_color	bg_color	fg_color
-    focused_workspace 	$black2		$black1		$magenta1
+    focused_workspace 	$white2		$black1		#FFFFFF
     active_workspace 	$black1		$black2		$yellow2
-    inactive_workspace	$black1		$bg_color	$fg_color
+    inactive_workspace	$black1		$bg_color	$white1
     urgent_workspace 	$red2		$red1		$fg_color
   }
 }
@@ -252,7 +252,7 @@ bindsym XF86AudioPrev exec playerctl previous
 
 #wallpaper
 #exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/chess.png
-exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/wt.png
+exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/along.png
 #exec_always feh --recursive --randomize --bg-scale /home/tvivek/Pictures/calvin3.jpg
 
 # setting up i3-gaps to use
